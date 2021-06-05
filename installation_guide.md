@@ -1,6 +1,24 @@
 Lineageos
 =========
-Angelegt Freitag 17 Mai 2019
+Angelegt Freitag 05 Juni 2021
+
+On Your Fairphone:
+- Save your data!
+- Unlock the Bootloader:
+	- Find IMEI number (Settings - About phone)
+	- Find serial number (Settings - About phone - Model and Hardware)
+	- enter them [here][bootloader] and get your unlock code. 
+	   
+	- enable Developer mode (press 7 times “Build number” [Settings - About phone])
+	- enable OEM unlocking with unlock code (System – Advanced – Developer options)
+
+
+
+
+
+On Your Computer:
+- install fastboot and adb (sudo apt install adb fastboot)
+
 
 Desktop
 -------
@@ -72,3 +90,4 @@ adb shell 'settings put global captive_portal_other_fallback_urls "http://captiv
 # Test it
 adb shell 'settings get global captive_portal_https_url'
 
+[bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
