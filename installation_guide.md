@@ -4,7 +4,7 @@ Angelegt Freitag 05 Juni 2021
 
 Install LineageOS on Fairphone
 ---------------------------------
-1.1. Save you Data and Unlock Bootloader (on Your Fairphone)
+1. Save you Data and Unlock Bootloader (on Your Fairphone)
 - Find IMEI number (Settings - About phone)
 - Find serial number (Settings - About phone - Model and Hardware)
 - enter them [here][bootloader] and get your unlock code. 
@@ -12,24 +12,24 @@ Install LineageOS on Fairphone
 - enable OEM unlocking with unlock code (System – Advanced – Developer options)
 - enable USB Debugging (System – Advanced – Developer options)
 
-1.2. Install and download dependencies (on Your Computer)
+2. Install and download dependencies (on Your Computer)
 - install fastboot and adb (sudo apt install adb fastboot)
 - Download LineageOS .img and .zip files [here][LineageOS]
 - connect Fairphone via USB with computer
 - Reboot bootloader (adb reboot bootloader)
 
-1.3. Prepare Phone (on Your Fairphone)
+3. Prepare Phone (on Your Fairphone)
 - start phone in Recovery mode
 - choose Factory Reset - Format Data/Factory Reset
 - apply update - Apply from ADB
 
-1.4. Install LineageOS (on Your Computer)
+4. Install LineageOS (on Your Computer)
 - adb sideload <lineagos.zip>
 
-1.5. Apply LineageOS (on Your Fairphone)
+5. Apply LineageOS (on Your Fairphone)
 - apply update
 
-
+6. TODO: bootlock your phone
 
 Install Apps
 ------------
