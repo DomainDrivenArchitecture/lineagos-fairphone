@@ -35,6 +35,11 @@ Install Apps
 ------------
 2.1. [Here][apkpure] you can download Apps which you can install via the computer on your phone (adb install example.apk).
 
+2.2. Download F-Droid Store [here][Fdroid].
+
+2.3. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky...
+
+2.4 Dont forget to check again the predefined settings (additional install a privacy badger).
 
 
 Remove Google-dependencies
@@ -47,44 +52,7 @@ Remove Google-dependencies
 
 3.4. (Switch off Companion Device Manager? )
 
-3.5. Fdroid Installation
-	a. deltachat (import backup von oben)
-	b. nextcloud
-	c. osmand
-	d. davx5
-	e. icsx5
-	f. fennec
-	g. LibreraReader
-	h. QRScanner
-	i. tusky
-	j. AudioAnchor
-	k. Aegis
-	l. CoronaTracking
-	m. editor
-
-3.6. deltachat-backup + Files unter: ~/cloud/meissa/09_organisation/99_SystemAdministration/Lineageos auf das Smartphone kopieren
-
-3.7. nextcloud einrichten
-	a. cloud.prod.meissa-gmbh.de
-	b. smart-jem
-
-3.8. davx5 - crm einrichten
-	a. https://meissa.h.opencrm.eu/carddav.php/principals/jem
-	b. jem
-
-3.9. tusky
-	a. https://social.meissa-gmbh.de
-	b. jem
-
-3.10. email
-
-3.11. tts
-
-3.12. fennec
-	a. Einstellungen anpassen!
-	b. privacy badger einrichten
-
-3.13. google captive portal MIT adb einrichten (https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/)
+3.5. google captive portal MIT adb einrichten (https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/)
 adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
 adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
 adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
@@ -95,3 +63,4 @@ adb shell 'settings get global captive_portal_https_url'
 [bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
 [LineageOS]: https://download.lineageos.org/FP3
 [apkpure]: https://apkpure.com
+[Fdroid]: https://www.f-droid.org/
