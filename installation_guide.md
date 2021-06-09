@@ -46,21 +46,23 @@ Remove Google-dependencies
 -----------------------------
 3.1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Private DNS)
 
-3.2. Check Privacy Settings and GPS
+3.2. Check Privacy Settings and GPS (especially browser-settings from Fennec).
 
 3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing)
 
 3.4. (Switch off Companion Device Manager? )
 
-3.5. google captive portal MIT adb einrichten (https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/)
-adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
-adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
-adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
-adb shell 'settings put global captive_portal_other_fallback_urls "http://captiveportal.kuketz.de"'
-# Test it
-adb shell 'settings get global captive_portal_https_url'
+3.5. Google captive portal check mit [Kuketz][kuketz] einrichten bzw ersetzen. Dafür FP wieder mit dem Computer verbinden und erneut mit Hilfe von adb folgende Kommandos ausführen.
+- adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
+- adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
+- adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
+- adb shell 'settings put global captive_portal_other_fallback_urls "http://captiveportal.kuketz.de"'
+
+Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
+- adb shell 'settings get global captive_portal_https_url'
 
 [bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
 [LineageOS]: https://download.lineageos.org/FP3
 [apkpure]: https://apkpure.com
 [Fdroid]: https://www.f-droid.org/
+[kuketz]: https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/
