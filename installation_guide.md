@@ -3,7 +3,7 @@ Ungoogle Fairphone
 Angelegt Freitag 05 Juni 2021
 
 Install LineageOS on Fairphone
----------------------------------
+------------------------------
 1.1. Save you Data and Unlock Bootloader (on Your Fairphone)
 - Find IMEI number (Settings - About phone)
 - Find serial number (Settings - About phone - Model and Hardware)
@@ -19,7 +19,7 @@ Install LineageOS on Fairphone
 - Reboot bootloader (adb reboot bootloader)
 
 1.3. Prepare Phone (on Your Fairphone)
-- start phone in Recovery mode
+- start phone in Recovery Mode
 - choose Factory Reset - Format Data/Factory Reset
 - apply update - Apply from ADB
 
@@ -43,7 +43,7 @@ Install Apps
 
 
 Remove Google-dependencies
------------------------------
+--------------------------
 3.1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Private DNS)
 
 3.2. Check Privacy Settings and GPS (especially browser-settings from Fennec).
@@ -61,8 +61,23 @@ Remove Google-dependencies
 Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
 - adb shell 'settings get global captive_portal_https_url'
 
+
+Optional installation of Google Play Store
+------------------------------------------
+
+If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
+
+Download the favored version from [here][GApps].
+
+Start your phone again in Recovery Mode.
+
+Choose Apply from ADB on your phone.
+
+Install it from your Computer: adb sideload <gapps.zip>
+
 [bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
 [LineageOS]: https://download.lineageos.org/FP3
 [apkpure]: https://apkpure.com
 [Fdroid]: https://www.f-droid.org/
 [kuketz]: https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/
+[GApps]: https://opengapps.org/
