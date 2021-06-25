@@ -18,6 +18,10 @@ Install LineageOS on Fairphone
 - connect Fairphone via USB with computer
 - Reboot bootloader (adb reboot bootloader)
 
+1.2.1 Optional installation of Google Play Store
+- If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
+- Download the favored version from [here][GApps].
+
 1.3. Prepare Phone (on Your Fairphone)
 - start phone in Recovery Mode
 - choose Factory Reset - Format Data/Factory Reset
@@ -25,6 +29,7 @@ Install LineageOS on Fairphone
 
 1.4. Install LineageOS (on Your Computer)
 - adb sideload <lineagos.zip>
+- optional: adb sideload <gapps.zip>
 
 1.5. Apply LineageOS (on Your Fairphone)
 - apply update
@@ -62,18 +67,6 @@ Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
 - adb shell 'settings get global captive_portal_https_url'
 
 
-Optional installation of Google Play Store
-------------------------------------------
-
-If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
-
-Download the favored version from [here][GApps].
-
-Start your phone again in Recovery Mode.
-
-Choose Apply from ADB on your phone.
-
-Install it from your Computer: adb sideload <gapps.zip>
 
 [bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
 [LineageOS]: https://download.lineageos.org/FP3
