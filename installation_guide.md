@@ -57,9 +57,7 @@ Remove Google-dependencies
 
 3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing)
 
-3.4. (Switch off Companion Device Manager? )
-
-3.5. Google captive portal check mit [Kuketz][kuketz] einrichten bzw ersetzen. Dafür FP wieder mit dem Computer verbinden und erneut mit Hilfe von adb folgende Kommandos ausführen.
+3.4. Google captive portal check mit [Kuketz][kuketz] einrichten bzw ersetzen. Dafür FP wieder mit dem Computer verbinden und erneut mit Hilfe von adb folgende Kommandos ausführen.
 - adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
