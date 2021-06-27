@@ -34,7 +34,9 @@ Install LineageOS on Fairphone
 1.5. Apply LineageOS (on Your Fairphone)
 - apply update
 
-1.6. TODO: bootlock your phone
+1.6. Lock the Bootloader again (on Your Computer)
+- adb reboot bootloader
+- fastboot flashing lock
 
 Install Apps
 ------------
