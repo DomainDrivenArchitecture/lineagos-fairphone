@@ -48,6 +48,8 @@ Install Apps
 
 2.4 Dont forget to check again the predefined settings (additional install a privacy badger).
 
+2.5 If you are interested in how a specific App is tracking you. You can use the [exodus][privacy] platform to check.
+
 
 Remove Google-dependencies
 --------------------------
@@ -74,3 +76,4 @@ Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
 [Fdroid]: https://www.f-droid.org/
 [kuketz]: https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/
 [GApps]: https://opengapps.org/
+[privacy]: https://reports.exodus-privacy.eu.org/de/
