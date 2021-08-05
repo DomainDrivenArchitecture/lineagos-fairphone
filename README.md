@@ -6,11 +6,18 @@
 
 As it is widely known that Google tries to collect data from all possible sources, we offer a method where you can restrict many Google Services. We provide a manual for these restrictions for the Fairphone. There we install LineageOS instead of Android and furthermore we remove unnecessary functions like Google DNS or replacing the Play Store with the Open-Source based F-Droid Store. The goal is to prevent Google from tracking you.
 
-For more details or further functions, we remove take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
+For more details and more informations about specific google functions and dependencies we have removed, take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
+
+
+How an arbitrary App is tracking you, can be easily checked by the [exodus][privacy] platform, which is highly recommendable.
 
 ## See also
 * https://github.com/JBNCK/fp3_debloater
 
+
 ## License
 Copyright © 2021 meissa GmbH
 Licensed under the [Apache License, Version 2.0](LICENSE) (the "License")
+
+
+[privacy]: https://reports.exodus-privacy.eu.org/de/
