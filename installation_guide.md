@@ -48,8 +48,6 @@ Install Apps
 
 2.4 Dont forget to check again the predefined settings (additional install a privacy badger).
 
-2.5 If you are interested in how a specific App is tracking you. You can use the [exodus][privacy] platform to check.
-
 
 Remove Google-dependencies
 --------------------------
