@@ -74,4 +74,3 @@ Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
 [Fdroid]: https://www.f-droid.org/
 [kuketz]: https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/
 [GApps]: https://opengapps.org/
-[privacy]: https://reports.exodus-privacy.eu.org/de/
