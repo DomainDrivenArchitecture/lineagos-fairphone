@@ -9,7 +9,7 @@ As it is widely known that Google tries to collect data from all possible source
 For more details and more informations about specific google functions and dependencies we have removed, take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
 
 
-How an arbitrary App is tracking you, can be easily checked by the [exodus][privacy] platform, which is highly recommendable.
+If you are interested how an arbitrary App is tracking you, we can recommend the [exodus][privacy] platform, another website which is highly recommendable for a safer smartphone usage is [mobilsicher][privacyII].
 
 ## See also
 * https://github.com/JBNCK/fp3_debloater
@@ -21,3 +21,4 @@ Licensed under the [Apache License, Version 2.0](LICENSE) (the "License")
 
 
 [privacy]: https://reports.exodus-privacy.eu.org/de/
+[privacyII]: https://mobilsicher.de/
