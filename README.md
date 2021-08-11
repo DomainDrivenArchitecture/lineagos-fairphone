@@ -6,7 +6,7 @@
 
 As it is widely known that Google tries to collect data from all possible sources, we offer a method where you can restrict many Google Services. We provide a manual for these restrictions for the Fairphone. There we install LineageOS instead of Android and furthermore we remove unnecessary functions like Google DNS or replacing the Play Store with the Open-Source based F-Droid Store. The goal is to prevent Google from tracking you.
 
-For more details and more informations about specific google functions and dependencies we have removed, take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
+For more details and more information about specific google functions and dependencies we have removed, take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
 
 
 If you are interested how an arbitrary app is tracking you, we can recommend the [exodus][privacy] platform, another website which is highly recommendable for a safer smartphone usage is [mobilsicher][privacyII].
@@ -18,7 +18,7 @@ One of the most important apps for most of the users is the messenger of choice.
 
 But there are many workarounds, e.g. if you want to use **Signal** you can just download the apk [here][signalapk] (either install it directly on the smartphone or through your computer). Even if you still want to use WhatsApp you can go to the official WhatsApp [page][whatsapp] and the same will work there. The only disadvantage is that the backup functionality won't work because it's based on GoogleDrive.
 
-Another easy way to install apps like WhatsApp, Signal and almost **any other app** from GooglePlay Store is to use the **Aurora App Store**. The Aurora Store is available in the F-Droid Store and you can easily download APKs from the PlayStore without a GooglePlay account but nevertheless supports important security updates. Furthermore Aurora gives you informations about in-app trackers and many more.
+Another easy way to install apps like WhatsApp, Signal and almost **any other app** from GooglePlay Store is to use the **Aurora App Store**. The Aurora Store is available in the F-Droid Store and you can easily download APKs from the PlayStore without a GooglePlay account, but nevertheless supports important security updates. Furthermore, Aurora gives you information about in-app trackers and many more.
 
 
 
