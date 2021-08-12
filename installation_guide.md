@@ -46,7 +46,7 @@ Install Apps
 
 2.3. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky...
 
-2.4 Dont forget to check again the predefined settings (additional install a privacy badger).
+2.4. Dont forget to check again the predefined settings (additional install a privacy badger).
 
 
 Remove Google-dependencies
@@ -57,13 +57,13 @@ Remove Google-dependencies
 
 3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing)
 
-3.4. Google captive portal check mit [Kuketz][kuketz] einrichten bzw ersetzen. Dafür FP wieder mit dem Computer verbinden und erneut mit Hilfe von adb folgende Kommandos ausführen.
+3.4. Replace Google captive portal check with [Kuketz][kuketz]. Therefore, connect your FP with your computer and execute following adb commands:
 - adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_other_fallback_urls "http://captiveportal.kuketz.de"'
 
-Um zu testen ob ob die Einstellungen übernommen wurden folgendes eingeben:
+In order to test the settings, if they were correctly adopted, you can type in:
 - adb shell 'settings get global captive_portal_https_url'
 
 
