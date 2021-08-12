@@ -20,6 +20,8 @@ But there are many workarounds, e.g. if you want to use **Signal** you can just 
 
 Another easy way to install apps like WhatsApp, Signal and almost **any other app** from GooglePlay Store is to use the **Aurora App Store**. The Aurora Store is available in the F-Droid Store and you can easily download APKs from the PlayStore without a GooglePlay account, but nevertheless supports important security updates. Furthermore, Aurora gives you information about in-app trackers and many more.
 
+Before you ungoogle your smartphone, it might be a good idea to backup your chats from your phone. Therefore you just have to store a backup file on your computer and after the installation you can copy this backup file back to your phone and restore your chats.
+
 
 
 ## See also
