@@ -43,6 +43,9 @@
 **14. After I ungoogled my smartphone, I can't find all important apps in the F-Droid Store, are there any workarounds?**
 - The F-Droid Store only contains Free and open-source software (FOSS), as not all apps are FOSS we proposed some options how you can get your apps of choice without the need of a google account in our [README][apps].
 
+**15. Can I restore my chats in my messenger?**
+- Yes it is very easy to create a backup file of your chats before you ungoogle your phone, the file can be stored e.g. in your Nextcloud. Afterwards, this backup-file will be copied back to the phone and the chats will be restored. For further informations, again checkout our [README][apps].
+
 
 
 
