@@ -1,6 +1,6 @@
 Ungoogle Fairphone
 =========
-Angelegt Freitag 05 Juni 2021
+Created friday 05 june 2021
 
 Install LineageOS on Fairphone
 ------------------------------
