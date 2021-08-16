@@ -20,7 +20,7 @@
 - We, the [meissa GmbH][meissa] stand with our name for transparency, open-source and data-privacy. Furthermore, you can visit our website for more informations about the [team][team]. 
 
 **7. When you ungoogle my smartphone, do I have to send you my smartphone with all data?**
-- Yes you have to send your smartphone to us, but we highly recommend to reset it to factory settings, as all data will be lost during the ungoogle-process anyway (see 8.).
+- Yes and no, you have to send your smartphone to us, but we highly recommend to save all you data on your computer and reset it to factory settings. As all data will be lost during the ungoogle-process anyway (see 8.).
 
 **8. When you ungoogle my smartphone, can you backup my data and restore them on my smartphone?**
 - For data privacy and security reasons we don't offer a backup. You send us your smartphone reset to factory settings and you get your ungoogled smartphone back on factory settings. But as recommended in 2. you can of course make a backup on your own computer and restore your data.
@@ -35,7 +35,7 @@
 - Right now we charge 90€, as we invested a lot of time into developing the process. Later on we will probably be able to decrease the price.
 
 **12. How much time do you need to ungoogle my smartphone?**
-- The transport will take around 2 days, to ungoogle your phone we calculate 3 days, then we will send it back (again 2 days). In total this will be around 7 working days.
+- The transport will take around 2 days, to ungoogle your phone we calculate 3 days. In total with the time to send it back we calculate with 7 workdays.
 
 **13. During the time you ungoogle my smartphone, I will not be reachable through my phone. Is there a workaround?**
 - For a small extra charge we can send you one of our ungoogled Fairphones. Then you can start exploring the ungoogled world and you will still be reachable.
