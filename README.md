@@ -4,7 +4,7 @@
 
 ## Rational
 
-As it is widely known that Google tries to collect data from all possible sources, we offer a method where you can restrict many Google Services. We provide a manual for these restrictions for the Fairphone. There we install LineageOS instead of Android and furthermore we remove unnecessary functions like Google DNS or replacing the Play Store with the Open-Source based F-Droid Store. The goal is to prevent Google from tracking you.
+As it is widely known that Google tries to collect data from all possible sources, we offer a method where you can restrict many Google Services on your smartphone. We provide a manual for these restrictions for the Fairphone. There we install LineageOS instead of Android and furthermore we remove unnecessary functions like Google DNS or replacing the Play Store with the Open-Source based F-Droid Store. The goal is to prevent Google from tracking you.
 
 For more details and more information about specific google functions and dependencies we have removed, take a look at our [installation_guide](https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md).
 
