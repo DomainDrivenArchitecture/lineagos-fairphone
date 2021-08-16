@@ -5,20 +5,21 @@ Created friday 05 june 2021
 Install LineageOS on Fairphone
 ------------------------------
 1.1. Save you Data and Unlock Bootloader (on Your Fairphone)
+- Save all relevant data from you smartphone on your computer.
 - Find IMEI number (Settings - About phone)
 - Find serial number (Settings - About phone - Model and Hardware)
 - enter them [here][bootloader] and get your unlock code. 
 - enable Developer mode (press 7 times “Build number” (Settings - About phone))
-- enable OEM unlocking with unlock code (System – Advanced – Developer options)
-- enable USB Debugging (System – Advanced – Developer options)
+- enable OEM unlocking with unlock code (Settings - System – Advanced – Developer options)
+- enable USB Debugging (Settings - System – Advanced – Developer options)
 
-1.2. Install and download dependencies (on Your Computer)
+1.2. Download and install dependencies (on Your Computer)
 - install fastboot and adb (sudo apt install adb fastboot)
 - Download LineageOS .img and .zip files [here][LineageOS]
 - connect Fairphone via USB with computer
 - Reboot bootloader (adb reboot bootloader)
 
-1.2.1 Optional installation of Google Play Store
+1.2.1. Optional installation of GooglePlay Store
 - If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
 - Download the favored version from [here][GApps].
 
@@ -44,20 +45,20 @@ Install Apps
 
 2.2. Download F-Droid Store [here][Fdroid].
 
-2.3. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky...
+2.3. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky (...) through the F-Droid Store.
 
 2.4. Dont forget to check again the predefined settings (additional install a privacy badger).
 
 
 Remove Google-dependencies
 --------------------------
-3.1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Private DNS)
+3.1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Advanced - Private DNS).
 
 3.2. Check Privacy Settings and GPS (especially browser-settings from Fennec).
 
-3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing)
+3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing).
 
-3.4. Replace Google captive portal check with [Kuketz][kuketz]. Therefore, connect your FP with your computer and execute following adb commands:
+3.4. Replace Google captive portal check with [Kuketz][kuketz]. Therefore, connect your Fairphone with your computer and execute following adb commands:
 - adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
