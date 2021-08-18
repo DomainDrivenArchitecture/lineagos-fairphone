@@ -27,9 +27,9 @@ Nachdem Sie uns Ihr Smartphone zugesendet haben werden wir es entgoogeln (währe
 
 
 ### Preise:
-<pre>Für den Installationsservice zur entgoogelung Ihres Smartphones berechnen wir:                      90€         (including transportation) 
-Für den versiegelten Versand und überwachtem Installationsprozess berechnen wir:                    20€         (which is optional!)
-Für die Ausleihe eines unserer entgoogelten Fairphones berechnen wir:                               20€         (which is optional!)</pre>
+<pre>Für den Installationsservice zur entgoogelung Ihres Smartphones berechnen wir:                      90€         (inklusive Transport) 
+Für den versiegelten Versand und überwachtem Installationsprozess berechnen wir:                    20€         (Optional!)
+Für die Ausleihe eines unserer entgoogelten Fairphones berechnen wir:                               20€         (Optional!)</pre>
 
 
 
