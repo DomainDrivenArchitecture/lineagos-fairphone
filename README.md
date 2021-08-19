@@ -23,6 +23,11 @@ Another easy way to install apps like Signal, Threema, DeltaChat and almost **an
 Before you ungoogle your smartphone, it might be a good idea to backup your chats from your phone. Therefore you just have to store a backup file on your computer and after the installation you can copy this backup file back to your phone and restore your chats.
 
 
+## How to synchronize the calendar of your computer with your smartphone without Google
+
+A very popular and favoured feature of Google is the possibility to synchronize all your devices very easy. The downside is that for all those "free features" you don't have to pay with cash, but you pay with your data.\
+Here we suggest a possibility how to bypass Google and still synchronize all your devices very easy.
+
 
 ## See also
 * https://github.com/JBNCK/fp3_debloater
