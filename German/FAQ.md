@@ -55,7 +55,7 @@ Wir bieten eine Option an, bei der Sie uns Ihr Smartphone versiegelt zusenden un
 [guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/German/installation_guide.md
 [mail]: mailto:info@meissa-gmbh.de?subject=community-chat
 [mastodon]: https://social.meissa-gmbh.de/@team
-[offer]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/German/our_offer.md
+[offer]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/our_offer/German/unser_Angebot.md
 [meissa]: https://meissa-gmbh.de
 [team]: https://meissa-gmbh.de/pages/team/
 [apps]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/German/README.md
