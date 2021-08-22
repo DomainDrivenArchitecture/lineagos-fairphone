@@ -42,7 +42,7 @@ Wir bieten eine Option an, bei der Sie uns Ihr Smartphone versiegelt zusenden un
 **14. Nachdem Ich mein Smartphone entgoogelt habe, kann ich nicht alle Apps im F-Droid Store finden, kann ich diese dennoch nutzen?**
 - Der F-Droid Store enthält nur Free and open-source software (FOSS), da nicht alle Apps FOSS sind, haben wir einige Opitonen in unserer [README][apps] vorgestellt, wie Sie Ihre Apps bekommen ohne einen Google Account.
 
-**15. Can ich die Chats meines Messengers wiederherstellen?**
+**15. Kann ich die Chats meines Messengers wiederherstellen?**
 - Ja, es ist sehr leicht eine Backupdatei von Ihren Chats zu erstellen bevor Sie Ihr Smartphone entgoogeln. Dieses File können Sie z.B. in Ihrer Nextcloud sichern. Anschließend kopieren Sie die Backupdatei zurück auf Ihr Smartphone und die Chats können wiederhergestellt werden. Für weitere Informationen lesen Sie unsere [Doku][apps].
 
 
