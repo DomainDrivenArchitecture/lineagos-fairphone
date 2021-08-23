@@ -1,7 +1,6 @@
 # FAQ
 
 **1. Why should I ungoogle my smartphone?**
-
 - If you want to stop google from permanently tracking you and sharing all your data with google, an option might be to ungoogle your smartphone.
 
 **2. Can I keep all my data when I ungoogle my smartphone?**
@@ -11,10 +10,10 @@
 - You can either contact us through [info@meissa-gmbh.de][mail] or through [mastodon][mastodon] and we try to reply as soon as possible.
 
 **4. Can I ungoogle my smartphone by myself?**
-- Yes, we share our [installation_guide][guide] so you can ungoogle your smartphone by yourself. However, then we can't guarantee for anything.
+- Yes, we share our [installation_guide][guide] so you can ungoogle your smartphone by yourself. However, we can't guarantee for anything if you do it by yourselves.
 
 **5. If I am not able or I don't want to ungoogle it by myself, can you ungoogle it for me?**
-- Yes, we provide an offer to ungoogle your smartphone, see [here][offer].
+- Yes, we provide a service to ungoogle your smartphone, see [here][offer].
 
 **6. How can I be sure, that you don't steal my phone or make harmful things with my phone?**
 - We, the [meissa GmbH][meissa] stand with our name for transparency, open-source and data-privacy. Furthermore, you can visit our website for more informations about the [team][team]. 
@@ -23,7 +22,7 @@
 - Yes and no, you have to send your smartphone to us, but we highly recommend to save all you data on your computer and reset it to factory settings. As all data will be lost during the ungoogle-process anyway (see 8.).
 
 **8. When you ungoogle my smartphone, can you backup my data and restore them on my smartphone?**
-- For data privacy and security reasons we don't offer a backup. You send us your smartphone reset to factory settings and you get your ungoogled smartphone back on factory settings. But as recommended in 2. you can of course make a backup on your own computer and restore your data.
+- For data privacy and security reasons we don't offer a backup. You send us your smartphone reset to factory settings and you get your ungoogled smartphone back on factory settings. But as recommended in 2. you can make a backup on your own computer and restore your data.
 
 **9. When you ungoogle my smartphone, do I have any guarantee that my smartphone will still work?**
 - Yes, you will get back your ungoogled working smartphone. If during the ungoogle-process something goes wrong, we will compensate for your phone and replace it.
@@ -32,7 +31,7 @@
 - We offer an option where you can send us your smartphone under seal, then you can attend and observe the installation process. Afterwards, we will send the smartphone back, again under seal.
 
 **11. How much do you charge for ungoogle my smartphone?**
-- Right now we charge 90€, as we invested a lot of time into developing the process. Later on we will probably be able to decrease the price.
+- We charge 90€ including transportation.
 
 **12. How much time do you need to ungoogle my smartphone?**
 - The transport will take around 2 days, to ungoogle your phone we calculate 3 days. In total with the time to send it back we calculate with 7 workdays.
@@ -44,12 +43,7 @@
 - The F-Droid Store only contains Free and open-source software (FOSS), as not all apps are FOSS we proposed some options how you can get your apps of choice without the need of a google account in our [README][apps].
 
 **15. Can I restore my chats in my messenger?**
-- Yes it is very easy to create a backup file of your chats before you ungoogle your phone, the file can be stored e.g. in your Nextcloud. Afterwards, this backup-file will be copied back to the phone and the chats will be restored. For further informations, again checkout our [README][apps].
-
-
-
-
-
+- Yes it is very easy to create a backup file of your chats before you ungoogle your phone. Afterwards, this backup-file will be copied back to the phone and the chats will be restored. For further informations, again checkout our [README][apps].
 
 
 

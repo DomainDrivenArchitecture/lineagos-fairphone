@@ -10,7 +10,7 @@
 - Sie können uns entweder per Email kontaktieren: [info@meissa-gmbh.de][mail] oder über [mastodon][mastodon]. Wir werden versuchen so schnell wie möglich zu Antworten.
 
 **4. Kann ich mein Smartphone alleine entgoogeln?**
-- Ja, wir veröffentlichen unsere [Installationsanleitung][guide], damit können Sie Ihr Smartphone alleine entgoogeln. Dabei können wir jedoch keine Garantie für irgendetwas übernehmen. 
+- Ja, wir veröffentlichen unsere [Installationsanleitung][guide], damit können Sie Ihr Smartphone alleine entgoogeln. Wenn Sie es alleine probieren, können wir jedoch für nichts Garantieren. 
 
 **5. When ich mein Smartphone nicht alleine entgoogeln kann oder will, können Sie es für mich entgoogeln?**
 - Ja, wir stellen einen Installationsservice bereit, um Ihr Smartphone zu entgoogeln, siehe [hier][offer].
@@ -31,7 +31,7 @@
 Wir bieten eine Option an, bei der Sie uns Ihr Smartphone versiegelt zusenden und dem Installationsprozess beiwohnen. Anschließend werden wir Ihnen das Smartphone versiegelt zurücksenden.
 
 **11. Wieviel kostet die Entgoogelung meines Smartphones?**
-- Im moment kostet die Entgoogelung 90€, da wir viel Zeit in den Entwicklungsprozess gesteckt haben. Später werden wir den Preis sehr wahrscheinlich reduzieren können.
+- Die Entgoogelung kostet 90€ inklusive Transport.
 
 **12. Wieviel Zeit benötigt die Entgoogelung meines Smartphones?**
 - The Transport dauert etwa 2 Tage, für die Entgoogelung veranschlagen wir 3 Tage. Zusammen mit der Zeit für den Rückversand, ergeben sich etwa 7 Arbeitstage.
@@ -43,12 +43,7 @@ Wir bieten eine Option an, bei der Sie uns Ihr Smartphone versiegelt zusenden un
 - Der F-Droid Store enthält nur Free and open-source software (FOSS), da nicht alle Apps FOSS sind, haben wir einige Opitonen in unserer [README][apps] vorgestellt, wie Sie Ihre Apps bekommen ohne einen Google Account.
 
 **15. Kann ich die Chats meines Messengers wiederherstellen?**
-- Ja, es ist sehr leicht eine Backupdatei von Ihren Chats zu erstellen bevor Sie Ihr Smartphone entgoogeln. Dieses File können Sie z.B. in Ihrer Nextcloud sichern. Anschließend kopieren Sie die Backupdatei zurück auf Ihr Smartphone und die Chats können wiederhergestellt werden. Für weitere Informationen lesen Sie unsere [Doku][apps].
-
-
-
-
-
+- Ja, es ist sehr leicht eine Backupdatei von Ihren Chats zu erstellen bevor Sie Ihr Smartphone entgoogeln. Anschließend kopieren Sie die Backupdatei zurück auf Ihr Smartphone und die Chats können wiederhergestellt werden. Für weitere Informationen lesen Sie unsere [Doku][apps].
 
 
 
