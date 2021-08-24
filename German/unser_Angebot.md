@@ -38,8 +38,8 @@ Für die Ausleihe eines unserer entgoogelten Fairphones berechnen wir:          
 
 
 
-[read]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/German/README.md
-[faq]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/edit/German/FAQ.md
+[read]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/German/README.md
+[faq]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/edit/main/German/FAQ.md
 [cloud]: https://nextcloud.com/
 [mail]: mailto:info@meissa-gmbh.de?subject=community-chat
 [formular]: https://meissa-gmbh.de
