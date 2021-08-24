@@ -24,8 +24,7 @@ For sealed transportation and observed installation we charge:                  
 For borrowing one of our ungoogled Fairphones we charge:                                    20€         (which is optional!)</pre>
 
 
-[read]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/our_offer/README.md
-[faq]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/edit/our_offer/FAQ.md
+
 [cloud]: https://nextcloud.com/
 [mail]: mailto:info@meissa-gmbh.de?subject=community-chat
 [mastodon]: https://social.meissa-gmbh.de/@team
