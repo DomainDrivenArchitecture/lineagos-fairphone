@@ -30,7 +30,7 @@ Eine andere einfache Möglichkeit Apps wie Signal, Threema, DeltaChat und fast *
 Copyright © 2021 meissa GmbH
 Licensed under the [Apache License, Version 2.0](LICENSE) (the "License")
 
-[guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/German/installation_guide.md
+[guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob//main/German/Installations_Anleitung.md
 [privacy]: https://reports.exodus-privacy.eu.org/de/
 [privacyII]: https://mobilsicher.de/
 [signalapk]: https://signal.org/android/apk/
