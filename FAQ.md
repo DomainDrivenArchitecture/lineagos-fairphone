@@ -50,7 +50,7 @@
 [guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md
 [mail]: mailto:info@meissa-gmbh.de?subject=community-chat
 [mastodon]: https://social.meissa-gmbh.de/@team
-[offer]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/our_offer/our_offer.md
+[offer]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/our_offer.md
 [meissa]: https://meissa-gmbh.de
 [team]: https://meissa-gmbh.de/pages/team/
-[apps]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/our_offer/README.md
+[apps]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/README.md
