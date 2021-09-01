@@ -15,42 +15,16 @@
 **5. If I am not able or I don't want to ungoogle it by myself, can you ungoogle it for me?**
 - Yes, we provide a service to ungoogle your smartphone, see [here][offer].
 
-**6. How can I be sure, that you don't steal my phone or make harmful things with my phone?**
-- We, the [meissa GmbH][meissa] stand with our name for transparency, open-source and data-privacy. Furthermore, you can visit our website for more informations about the [team][team]. 
-
-**7. When you ungoogle my smartphone, do I have to send you my smartphone with all data?**
-- Yes and no, you have to send your smartphone to us, but we highly recommend to save all you data on your computer and reset it to factory settings. As all data will be lost during the ungoogle-process anyway (see 8.).
-
-**8. When you ungoogle my smartphone, can you backup my data and restore them on my smartphone?**
-- For data privacy and security reasons we don't offer a backup. You send us your smartphone reset to factory settings and you get your ungoogled smartphone back on factory settings. But as recommended in 2. you can make a backup on your own computer and restore your data.
-
-**9. When you ungoogle my smartphone, do I have any guarantee that my smartphone will still work?**
-- Yes, you will get back your ungoogled working smartphone. If during the ungoogle-process something goes wrong, we will compensate for your phone and replace it.
-
-**10. When you ungoogle my smartphone, how do I know that you don't install any malware on my phone?**
-- We offer an option where you can send us your smartphone under seal, then you can attend and observe the installation process. Afterwards, we will send the smartphone back, again under seal.
-
-**11. How much do you charge for ungoogle my smartphone?**
-- We charge 90€ including transportation.
-
-**12. How much time do you need to ungoogle my smartphone?**
-- The transport will take around 2 days, to ungoogle your phone we calculate 3 days. In total with the time to send it back we calculate with 7 workdays.
-
-**13. During the time you ungoogle my smartphone, I will not be reachable through my phone. Is there a workaround?**
-- For a small extra charge we can send you one of our ungoogled Fairphones. Then you can start exploring the ungoogled world and you will still be reachable.
-
-**14. After I ungoogled my smartphone, I can't find all important apps in the F-Droid Store, are there any workarounds?**
+**6. After I ungoogled my smartphone, I can't find all important apps in the F-Droid Store, are there any workarounds?**
 - The F-Droid Store only contains Free and open-source software (FOSS), as not all apps are FOSS we proposed some options how you can get your apps of choice without the need of a google account in our [README][apps].
 
-**15. Can I restore my chats in my messenger?**
+**7. Can I restore my chats in my messenger?**
 - Yes it is very easy to create a backup file of your chats before you ungoogle your phone. Afterwards, this backup-file will be copied back to the phone and the chats will be restored. For further informations, again checkout our [README][apps].
 
 
 
-[guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md
 [mail]: mailto:info@meissa-gmbh.de?subject=community-chat
 [mastodon]: https://social.meissa-gmbh.de/@team
+[guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md
 [offer]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/our_offer.md
-[meissa]: https://meissa-gmbh.de
-[team]: https://meissa-gmbh.de/pages/team/
 [apps]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/README.md
