@@ -7,6 +7,7 @@ Falls Sie sich für die unterstützte Installation entschieden haben, können Si
 Windows
 -------
 - adb und sideload für Windows herunterladen [here][sdk].
+    - Ordner entpacken und in dem Ordner Shift+Rechtsklick -> shell öffnen und ausprobieren ob ".\adb devices" ohne Fehler ausführabar ist.
 - zum Smartphone zugehörige [LineageOS.zip][lineageos] (Fairphone 2 oder 3) aus der linken Spalte auswählen und runterladen. 
 - USB-Kabel passend zum Smartphone bereithalten.
 - Falls Fairphone 3 vorhanden: IMEI-Nummer und Seriennummer notieren (unter: Einstellungen - Über das Telefon - Modell) und mit beiden Numern [Entsperrungscode][code] generieren
@@ -15,6 +16,7 @@ Windows
 Linux
 -----
 - adb und sideload installieren: sudo apt install adb fastboot (in der shell)
+    - ausprobieren ob "adb devices" ohne Fehler ausführbar ist.
 - zum Smartphone zugehörige [LineageOS.zip][lineageos] (Fairphone 2 oder 3) aus der linken Spalte auswählen und runterladen. 
 - USB-Kabel passend zum Smartphone bereithalten.
 - Falls Fairphone 3 vorhanden: IMEI-Nummer und Seriennummer notieren (unter: Einstellungen - Über das Telefon - Modell) und mit beiden Numern [Entsperrungscode][code] generieren
