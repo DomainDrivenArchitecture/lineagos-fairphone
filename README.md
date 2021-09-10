@@ -4,13 +4,21 @@
 
 ## Rational
 ### Security matters
+
 The biggest issue in terms of security is the lack of updates. Your android smartphone will be updated by your provider (if there are any) for one or two years. LineageOS provides much longer updates. The oldest device we suport (a htcOne) is now supported by more than 8 years.
 
 ### Privacy matters
+
 As it is widely known that Google tries to collect data from all possible sources. These collected data gives a incredible power to the collector. We think, giving google all this power is harmful.
 
 ## Installation
-, we offer a method how you can remove and restrict many Google Services on your smartphone. We provide a manual for these restrictions for the Fairphone. There we install LineageOS instead of Android and furthermore we remove unnecessary functions like Google DNS or replacing the Play Store with the Open-Source based F-Droid Store. The goal is to prevent Google from tracking you.
+
+We've enhanced the LineageOS installation guide in order to provide a complete walkthrough for the fairphone including bootloader-unlocking, degoogling & App-Installation.
+
+1. Prepare installation
+2. LineageOs installation
+3. degoogle your phone
+
 
 ## Live without Google is possible
 
