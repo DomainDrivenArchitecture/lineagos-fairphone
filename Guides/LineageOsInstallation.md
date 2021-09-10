@@ -44,40 +44,26 @@
 
 ### 5.1 Optional installation of Google Apps
 If you can't abstain from the Google Apps or the Google Play Store there exist packages with various scopes, you will find a package comparison here: https://github.com/opengapps/opengapps/wiki/Package-Comparison
-1. Download the favored version from [here][GApps].
+1. Download the favored version from [here](https://opengapps.org/).
 1. Install the gapps the same way, you installed LineageOs: `adb sideload <gapps.zip>`
 
 ## 6. Start LineageOS
 1. Return to main menu
+1. Choose apply update, then your phone should start with the new LineageOS.
+1. Walk through the initial LineageOS setup.
+
+## 7. Download the F-Droid App-Store
+1. Use the browser on your Fairphone to download F-Droid: https://www.f-droid.org/
+1. Visit the download-folder and install F-Droid (accept the warning).
+1. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky (...) through the F-Droid Store.
+1. Open Fennec and install privacy badger as add-on.
 
 
-1.5. Apply LineageOS (on Your Fairphone)
-- apply update
-
-1.6. Lock the Bootloader again (on Your Computer)
-- adb reboot bootloader
-- fastboot flashing lock
-
-Install Apps
-------------
-2.1. [Here][apkpure] you can download Apps which you can install via the computer on your phone (adb install example.apk).
-
-2.2. Download F-Droid Store [here][Fdroid].
-
-2.3. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky (...) through the F-Droid Store.
-
-2.4. Dont forget to check again the predefined settings (additional install a privacy badger).
-
-
-Remove Google-dependencies
---------------------------
-3.1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Advanced - Private DNS).
-
-3.2. Check Privacy Settings and GPS (especially browser-settings from Fennec).
-
-3.3. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing).
-
-3.4. Replace Google captive portal check with [Kuketz][kuketz]. Therefore, connect your Fairphone with your computer and execute following adb commands:
+## 8. Remove Google-dependencies
+1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Advanced - Private DNS).
+1. Check Privacy Settings and GPS (especially browser-settings from Fennec).
+1. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing).
+1. Replace Google captive portal check with [Kuketz](https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/). Therefore, connect your Fairphone with your computer and execute following adb commands:
 - adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
 - adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
@@ -86,11 +72,3 @@ Remove Google-dependencies
 In order to test the settings, if they were correctly adopted, you can type in:
 - adb shell 'settings get global captive_portal_https_url'
 
-
-
-[bootloader]: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
-[LineageOS]: https://download.lineageos.org/FP3
-[apkpure]: https://apkpure.com
-[Fdroid]: https://www.f-droid.org/
-[kuketz]: https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/
-[GApps]: https://opengapps.org/
