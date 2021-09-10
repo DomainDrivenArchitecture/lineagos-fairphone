@@ -31,7 +31,7 @@
    A209VYM20201	fastboot
    ```
 1. Type on your computer `fastboot oem unlock`.
-1. Install fastboot image by typing `fastboot flash boot <image_filename.img>` on your computer (<image_filename.img> is the img-file you have downloaded in 1.).
+1. Install fastboot image by typing `fastboot flash recovery <image_filename.img>` on your computer (<image_filename.img> is the img-file you have downloaded in 1.).
 1. Type on your computer `fastboot oem lock`.
 
 ## 5. Install LineageOS
