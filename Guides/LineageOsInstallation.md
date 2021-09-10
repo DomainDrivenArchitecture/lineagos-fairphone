@@ -24,13 +24,17 @@
    ```
 
 ## 4. Install LinegaeOS
-1. Reboot your fairphone to recovery mode: Type `adb reboot bootloader` on your computer.
+1. Reboot your fairphone to bootloader mode: Type `adb reboot bootloader` on your computer.
+1. Fairphone should show the bootloader screen.
+1. Type `fastboot devices` on your computer. The result should show sth like
+   ```
+   A209VYM20201	fastboot
+   ```
+1. Type on your computer `fastboot oem unlock`.
+1. Install fastboot image by typing `fastboot flash boot .<image_filename>.img` on your computer (<image_filename>.img is the img-file you have downloaded in 1.).
+1. Type on your computer `fastboot oem lock`.
 
 
-
-
-
-bootloader ()
 
 1.2.1. Optional installation of GooglePlay Store
 - If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
