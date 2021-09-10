@@ -55,20 +55,5 @@ If you can't abstain from the Google Apps or the Google Play Store there exist p
 ## 7. Download the F-Droid App-Store
 1. Use the browser on your Fairphone to download F-Droid: https://www.f-droid.org/
 1. Visit the download-folder and install F-Droid (accept the warning).
-1. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky (...) through the F-Droid Store.
+1. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky, k9 (...) through the F-Droid Store.
 1. Open Fennec and install privacy badger as add-on.
-
-
-## 8. Remove Google-dependencies
-1. enter new DNS: dns2.digitalcourage.de (Settings - Network and Internet - Advanced - Private DNS).
-1. Check Privacy Settings and GPS (especially browser-settings from Fennec).
-1. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing).
-1. Replace Google captive portal check with [Kuketz](https://www.kuketz-blog.de/android-captive-portal-check-204-http-antwort-von-captiveportal-kuketz-de/). Therefore, connect your Fairphone with your computer and execute following adb commands:
-- adb shell 'settings put global captive_portal_http_url "http://captiveportal.kuketz.de"'
-- adb shell 'settings put global captive_portal_https_url "https://captiveportal.kuketz.de"'
-- adb shell 'settings put global captive_portal_fallback_url "http://captiveportal.kuketz.de"'
-- adb shell 'settings put global captive_portal_other_fallback_urls "http://captiveportal.kuketz.de"'
-
-In order to test the settings, if they were correctly adopted, you can type in:
-- adb shell 'settings get global captive_portal_https_url'
-

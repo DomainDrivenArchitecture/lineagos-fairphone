@@ -1,11 +1,11 @@
 {:tags [degoogled, needs-no-google-apps, chat, encrypted]}
 
-| Website | (Website)[https://delta.chat/] |
-|---------|--------------------------------|
-| Android | x [see..](https://delta.chat/de/download) |
-| apple   | (x see:)[https://delta.chat/de/download] |
-| linux   | (x see:)[https://delta.chat/de/download] |
-| win     | (x see:)[https://delta.chat/de/download] |
+| Website | https://delta.chat/                           |
+|---------|-----------------------------------------------|
+| Android | yes [see..](https://delta.chat/de/download)   |
+| apple   | yes [see..](https://delta.chat/de/download)   |
+| linux   | yes [see..](https://delta.chat/de/download)   |
+| win     | yes [see..](https://delta.chat/de/download)   |
 
 # DeltaChat
 
@@ -20,3 +20,7 @@ Chat with anyone if you know their e-mail address, no need for them to install D
 ![](DeltaChatDataFlow.svg)
 
 # Privacy
+
+You own only data on your own server. If you own a mail server, DeltaChat is a nice alternative. You don't need an additional chat server but you will own your messages.
+
+# Reviews

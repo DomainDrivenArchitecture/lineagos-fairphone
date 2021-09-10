@@ -5,59 +5,42 @@
 ## Rational
 ### Security matters
 
-The biggest issue in terms of security is the lack of updates. Your android smartphone will be updated by your provider (if there are any) for one or two years. LineageOS provides much longer updates. The oldest device we suport (a htcOne) is now supported by more than 8 years.
+The biggest issue in terms of security is the lack of updates. Your android smartphone will be updated by your provider (if there are updates at all) for one or two years. LineageOS provides much longer updates. The oldest device we support (a htcOne) is now getting updates for more than 8 years.
 
 ### Privacy matters
 
-As it is widely known that Google tries to collect data from all possible sources. These collected data gives a incredible power to the collector. We think, giving google all this power is harmful.
+As it is widely known that Google tries to collect data from all possible sources. These collected data gives a incredible power to the collector. We think, giving google all this power is harmful. We will do our best to stopp google from collecting data from our lives.
 
 ## Installation
 
 We've enhanced the LineageOS installation guide in order to provide a complete walkthrough for the fairphone including bootloader-unlocking, degoogling & App-Installation.
 
 1. [Prepare installation](Guides/PrepareInstallation.md)
-2. LineageOs installation
-3. degoogle your phone
+2. [LineageOs installation](Guides/LineageOsInstallation.md)
+3. [degoogle your phone](Guides/DegoogleLineageOs.md)
 
+You will find more guides at [Guides/Summary.md](Guides/Summary.md)
 
 ## Live without Google is possible
 
-->> Known to work ...
+We will collect the most important use cases here
 
-
-For more details and more information about specific google functions and dependencies we have removed, take a look at our [installation_guide][guide]. There you get all relevant information and you can ungoogle your fairphone all by yourself.
-
-## How to bypass Google
-
-We have created some references how you can bypass Google and still benefit from the features that Google normally provides.
-
-[Here][messenger] you can see how you can use your messenger of choice without the need of a Google-account.
-
-[Here][calendar] you can see how you can synchronize the a calendar through multiple devices without using Google.
+* [DeltaChat](KnownToWork/DeltaChat.md)
 
 ## Things not working
 
-->> Known issues
-
-
-If you are interested how an arbitrary app is tracking you, we can recommend the [exodus][privacy] platform, another website which is highly recommendable for a safer smartphone usage is [mobilsicher][privacyII].
-
+But obviosly there are also things not working without google (google-pay  or google-search for example). We will collect these things here and describe alterantives if possible.
 
 
 ## Friends and related work
 
-* Mobilsicher shows how an arbitrary app is tracking you: https://mobilsicher.de/
-* https://reports.exodus-privacy.eu.org/de/
-* https://github.com/JBNCK/fp3_debloater
-
+* Mobilsicher is a german platform about privacy on android: https://mobilsicher.de/
+* Portal providing privacy audits for apps: https://reports.exodus-privacy.eu.org/de/
+* Getting GooglePlayStore-Apps without having a play store: https://gitlab.com/AuroraOSS/AuroraStore
+* Privacy Guides: https://github.com/JBNCK/fp3_debloater
+* Privacy Blog: https://www.kuketz-blog.de/
 
 ## License
 
 Copyright © 2021 meissa GmbH
 Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE) (the "License")
-
-[guide]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/installation_guide.md
-[privacy]: https://reports.exodus-privacy.eu.org/de/
-[messenger]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/messenger_without_PlayStore.md
-[calendar]: https://gitlab.com/domaindrivenarchitecture/ungoogled-fairphone/-/blob/main/sync_calender.md
-[privacyII]: https://mobilsicher.de/
