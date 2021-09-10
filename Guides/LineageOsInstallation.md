@@ -1,20 +1,36 @@
 
 # Install LineageOS on Fairphone
 
-## 1. check your prerequisites on your computer
-[ ] adb and fastboot are installed? \
-[ ] you have downloaded bootimage (img) and LineageOS (zip)? \
-[ ] you have the unlock code (in case of Fairphone 3)?
+## 1. Check your prerequisites on your computer
+[ ] adb and fastboot are installed?  
+[ ] you have downloaded bootimage (img) and LineageOS (zip)?  
+[ ] you have the unlock code (in case of Fairphone 3)?  
 
-- enable Developer mode (press 7 times “Build number” (Settings - About phone))
-- enable OEM unlocking with unlock code (Settings - System – Advanced – Developer options)
-- enable USB Debugging (Settings - System – Advanced – Developer options)
+## 2. Unlock your fairphone
+1. Navigate to "Settings - About phone"
+1. Press 7 times “Build number” to enable Developer mode
+1. Navigate to "Settings - System – Advanced – Developer options"
+1. Enable OEM unlocking with unlock your code
+1. Navigate to "Settings - System – Advanced – Developer options"
+1. Enable USB Debugging
 
-1.2. Download and install dependencies (on Your Computer)
-- install fastboot and adb (sudo apt install adb fastboot)
-- Download LineageOS .img and .zip files [here][LineageOS]
-- connect Fairphone via USB with computer
-- Reboot bootloader (adb reboot bootloader)
+## 3. Connect via usb
+1. Connect your computer & fairphone via usb
+1. On your fairphone allow the usb connection
+1. Type `adb devices` on your computer. The result should show sth like   
+   ```
+   List of devices attached
+   A209VYM20201	device
+   ```
+
+## 4. Install LinegaeOS
+1. Reboot your fairphone to recovery mode: Type `adb reboot bootloader` on your computer.
+
+
+
+
+
+bootloader ()
 
 1.2.1. Optional installation of GooglePlay Store
 - If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
