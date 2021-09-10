@@ -23,7 +23,7 @@
    A209VYM20201	device
    ```
 
-## 4. Install LinegaeOS
+## 4. Install LinegaeOS recovery image
 1. Reboot your fairphone to bootloader mode: Type `adb reboot bootloader` on your computer.
 1. Fairphone should show the bootloader screen.
 1. Type `fastboot devices` on your computer. The result should show sth like
@@ -31,23 +31,25 @@
    A209VYM20201	fastboot
    ```
 1. Type on your computer `fastboot oem unlock`.
-1. Install fastboot image by typing `fastboot flash boot .<image_filename>.img` on your computer (<image_filename>.img is the img-file you have downloaded in 1.).
+1. Install fastboot image by typing `fastboot flash boot <image_filename.img>` on your computer (<image_filename.img> is the img-file you have downloaded in 1.).
 1. Type on your computer `fastboot oem lock`.
 
+## 5. Install LineageOS
+1. Reboot your fairphone again to bootloader mode: Type `adb reboot bootloader` on your computer.
+1. Your fairphone now boots to the new LineageOS recovery image.
+1. Choose Factory Reset - Format Data/Factory Reset
+1. Return to main menu
+1. Apply update - Apply from ADB
+1. Type `adb sideload <lineagos.zip>` on your computer (<lineagos.zip> is the zip-file you have downloaded in 1.).
 
+### 5.1 Optional installation of Google Apps
+If you can't abstain from the Google Apps or the Google Play Store there exist packages with various scopes, you will find a package comparison here: https://github.com/opengapps/opengapps/wiki/Package-Comparison
+1. Download the favored version from [here][GApps].
+1. Install the gapps the same way, you installed LineageOs: `adb sideload <gapps.zip>`
 
-1.2.1. Optional installation of GooglePlay Store
-- If you can't abstain from the Play Store there exist a minimum Google installation, (pico) Open GApps.
-- Download the favored version from [here][GApps].
+## 6. Start LineageOS
+1. Return to main menu
 
-1.3. Prepare Phone (on Your Fairphone)
-- start phone in Recovery Mode
-- choose Factory Reset - Format Data/Factory Reset
-- apply update - Apply from ADB
-
-1.4. Install LineageOS (on Your Computer)
-- adb sideload <lineagos.zip>
-- optional: adb sideload <gapps.zip>
 
 1.5. Apply LineageOS (on Your Fairphone)
 - apply update
