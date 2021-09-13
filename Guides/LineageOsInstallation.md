@@ -19,7 +19,7 @@
 1. Type `adb devices` on your computer. The result should show something like   
    ```
    List of devices attached
-   A209VYM20201	device
+   <SerialNumberOfYourPhone>	device
    ```
 
 ## 4. Install LinegaeOS recovery image
@@ -27,7 +27,7 @@
 1. Fairphone should show the bootloader screen.
 1. Type `fastboot devices` on your computer. The result should show something like
    ```
-   A209VYM20201	fastboot
+   <SerialNumberOfYourPhone>	fastboot
    ```
 1. Type on your computer `fastboot oem unlock`.
 1. Install fastboot image by typing `fastboot flash recovery <image_filename.img>` on your computer (<image_filename.img> is the img-file you have downloaded in 1.).
