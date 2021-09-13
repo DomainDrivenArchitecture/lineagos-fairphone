@@ -42,8 +42,9 @@
 [<img src="/doc/reset.jpg" width="300" height="400">](/doc/reset.jpg)[<img src="/doc/format.jpg" width="300" height="400">](/doc/format.jpg)
 1. Return to main menu
 1. Apply update - Apply from ADB  
-[<img src="/doc/sideload.jpg" width="300" height="400">](/doc/sideload.jpg)
-1. Type `adb sideload <lineagos.zip>` on your computer (<lineagos.zip> is the zip-file you have downloaded in 1.).
+[<img src="/doc/apply.jpg" width="300" height="400">](/doc/apply.jpg)[<img src="/doc/sideload.jpg" width="300" height="400">](/doc/sideload.jpg)
+1. Type `adb sideload <lineagos.zip>` on your computer (<lineagos.zip> is the zip-file you have downloaded in 1.).  
+[<img src="/doc/done.jpg" width="300" height="400">](/doc/done.jpg)  
 
 ### 5.1 Optional installation of Google Apps
 If you can't abstain from the Google Apps or the Google Play Store there exist packages with various scopes, you will find a package comparison here: https://github.com/opengapps/opengapps/wiki/Package-Comparison
@@ -52,7 +53,7 @@ If you can't abstain from the Google Apps or the Google Play Store there exist p
 
 ## 6. Start LineageOS
 1. Return to main menu
-1. Choose apply update, then your phone should start with the new LineageOS.
+1. Choose Reboot system, then your phone should start with the new LineageOS.
 1. Walk through the initial LineageOS setup.
 
 ## 7. Download the F-Droid App-Store
