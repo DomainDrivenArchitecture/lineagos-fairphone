@@ -24,7 +24,7 @@
 
 ## 4. Install LinegaeOS recovery image
 1. Reboot your fairphone to bootloader mode: Type `adb reboot bootloader` on your computer.
-1. Fairphone should show the bootloader screen.
+1. Fairphone should show the bootloader screen.  
 1. Type `fastboot devices` on your computer. The result should show something like
    ```
    <SerialNumberOfYourPhone>	fastboot
@@ -35,10 +35,14 @@
 
 ## 5. Install LineageOS
 1. Reboot your fairphone again to bootloader mode: Type `adb reboot bootloader` on your computer.
-1. Your fairphone now boots to the new LineageOS recovery image.
-1. Choose Factory Reset - Format Data/Factory Reset
+1. Your fairphone now boots to the new LineageOS recovery image.  
+[<img src="/doc/start.jpg" width="300" height="400">](/doc/start.jpg)[<img src="/doc/recovery.jpg" width="300" height="400">](/doc/recovery.jpg)
+
+1. Choose Factory Reset - Format Data/Factory Reset  
+[<img src="/doc/reset.jpg" width="300" height="400">](/doc/reset.jpg)[<img src="/doc/format.jpg" width="300" height="400">](/doc/format.jpg)
 1. Return to main menu
-1. Apply update - Apply from ADB
+1. Apply update - Apply from ADB  
+[<img src="/doc/sideload.jpg" width="300" height="400">](/doc/sideload.jpg)
 1. Type `adb sideload <lineagos.zip>` on your computer (<lineagos.zip> is the zip-file you have downloaded in 1.).
 
 ### 5.1 Optional installation of Google Apps
