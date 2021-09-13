@@ -1,4 +1,3 @@
-
 # Install LineageOS on Fairphone
 
 ## 1. Check your prerequisites on your computer
@@ -17,7 +16,7 @@
 ## 3. Connect via usb
 1. Connect your computer & fairphone via usb
 1. On your fairphone allow the usb connection
-1. Type `adb devices` on your computer. The result should show sth like   
+1. Type `adb devices` on your computer. The result should show something like   
    ```
    List of devices attached
    A209VYM20201	device
@@ -26,7 +25,7 @@
 ## 4. Install LinegaeOS recovery image
 1. Reboot your fairphone to bootloader mode: Type `adb reboot bootloader` on your computer.
 1. Fairphone should show the bootloader screen.
-1. Type `fastboot devices` on your computer. The result should show sth like
+1. Type `fastboot devices` on your computer. The result should show something like
    ```
    A209VYM20201	fastboot
    ```
