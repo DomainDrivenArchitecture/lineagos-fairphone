@@ -35,7 +35,7 @@
 
 ## 5. Install LineageOS
 1. Reboot your fairphone again to bootloader mode: Type `adb reboot bootloader` on your computer.
-1. Your fairphone now boots to the new LineageOS recovery image.  
+1. Your fairphone now boots to the new LineageOS recovery image. Then start the recovery mode.   
 [<img src="/doc/start.jpg" width="300" height="400">](/doc/start.jpg)[<img src="/doc/recovery.jpg" width="300" height="400">](/doc/recovery.jpg)
 
 1. Choose Factory Reset - Format Data/Factory Reset  
