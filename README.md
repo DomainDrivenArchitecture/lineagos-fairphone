@@ -21,7 +21,7 @@ We've enhanced the LineageOS installation guide in order to provide a complete w
 
 You will find more guides at [Guides/Summary.md](Guides/Summary.md)
 
-## Live without Google is possible
+## Life without Google is possible
 
 We will collect the most important use cases here
 
