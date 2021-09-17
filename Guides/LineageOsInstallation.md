@@ -61,7 +61,7 @@ OEM unlocking / locking will erase all data, so we should ensure to do the lock 
 ## 6. Install LineageOS
 
 This step is no more dangerous. You can retry as often you want to. The LineageOs boot-loader will verify your binaries.
-1. Reboot your fairphone again to bootloader mode: Type `adb reboot bootloader` on your computer.
+1. Reboot your fairphone again to bootloader mode: Type `adb reboot recovery` on your computer.
 2. Your fairphone now boots to the new LineageOS recovery image. Then start the recovery mode.   
 [<img src="img/start.jpg" width="300" height="400">](img/start.jpg)[<img src="img/recovery.jpg" width="300" height="400">](img/recovery.jpg)
 
