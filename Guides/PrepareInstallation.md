@@ -2,7 +2,9 @@
 ## On your computer
 
 1. Download and install adb & fastboot
-   1. In case of [Windows](https://developer.android.com/studio/releases/platform-tools)
+   1. In case of Windows
+      1. [Download adb & fastboot](https://developer.android.com/studio/releases/platform-tools)
+      2. Maybe it is necessary to install USB-Driver by windwos update [see](https://forum.fairphone.com/t/gerat-wird-im-fastboot-mode-nicht-erkannt-os-flashen/42920/2)
    1. In case of Linux `sudo apt install adb fastboot`
 2. Download LineageOS .img and .zip files
    1. In case of [Fairphone 2](https://download.lineageos.org/FP2)
