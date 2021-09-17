@@ -53,7 +53,9 @@ The next step is the critical one. If this step goes wrong your fairphone may re
 
 All checks passed? Then lets do the work:
 1. Type on your computer `fastboot oem unlock`.
-1. Install fastboot image by typing `fastboot flash recovery <image_filename.img>` on your computer (<image_filename.img> is the img-file you have downloaded in 1.).
+1. Install fastboot image 
+   1. in case of Fairphone2 by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
+   1. in case of Fairphone3 by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
 1. Type on your computer `fastboot oem lock`.
 
 OEM unlocking / locking will erase all data, so we should ensure to do the lock again now.
