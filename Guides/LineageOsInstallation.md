@@ -23,7 +23,8 @@ Unlocking will allow us to overwrite the boot-loader.
 For overwriting your fairphones boot-loader we will need connection to your pc.
 1. Connect your computer & fairphone via usb
 1. On your fairphone allow the usb connection
-1. Type `adb devices` on your computer. The result should show something like   
+1. Type `adb devices` on your computer (in case of windows open the terminal in the directory containing adb&fastboot.exe and use the `.\` prefix. The resulting command will be: `.\adb devices`).   
+   The result should show something like   
    ```
    List of devices attached
    <SerialNumberOfYourPhone>	device
@@ -54,6 +55,7 @@ The next step is the critical one. If this step goes wrong your fairphone may re
 
 All checks passed? Then lets do the work:
 1. Type on your computer `fastboot oem unlock`.
+1. If your fairphone reboots, a `adb reboot bootloader` will bring you back.
 1. Install fastboot image 
    1. in case of Fairphone2 by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
    1. in case of Fairphone3 by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
