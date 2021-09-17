@@ -13,9 +13,10 @@ Unlocking will allow us to overwrite the boot-loader.
 1. Navigate to "Settings - About phone"
 1. Press 7 times “Build number” to enable Developer mode
 1. Navigate to "Settings - System – Advanced – Developer options"
-1. Enable OEM unlocking with unlock your code
-1. Navigate to "Settings - System – Advanced – Developer options"
 1. Enable USB Debugging
+1. In case of Fairphone3:
+   1. Navigate to "Settings - System – Advanced – Developer options"
+   1. Enable OEM unlocking with unlock your code
 
 ## 3. Connect via usb
 
