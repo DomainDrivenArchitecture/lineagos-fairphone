@@ -13,7 +13,7 @@ Telegram is another messenger, a huge benefit is that Signal is Open-Source and 
 
 # Data Flow
 
-![](TelegramDataFlow.svg)
+![](img/TelegramDataFlow.svg)
 
 # Privacy
 

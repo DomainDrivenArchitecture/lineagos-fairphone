@@ -15,7 +15,7 @@ Signal is recommended by many privacy advocates like Edward Snowden and is moreo
 
 # Data Flow
 
-![](SignalDataFlow.svg)
+![](img/SignalDataFlow.svg)
 
 # Privacy
 

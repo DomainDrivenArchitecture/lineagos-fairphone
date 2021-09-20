@@ -17,7 +17,7 @@ Chat with anyone if you know their e-mail address, no need for them to install D
 
 # Data Flow
 
-![](DeltaChatDataFlow.svg)
+![](img/DeltaChatDataFlow.svg)
 
 # Privacy
 
