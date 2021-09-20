@@ -1,6 +1,6 @@
 {:tags [degoogled, needs-no-google-apps, chat, encrypted]}
 
-| Website | https://delta.chat/                           |
+| Website | https://signal.org/                          |
 |---------|-----------------------------------------------|
 | Android | yes [see..](https://signal.org/download/)   |
 | apple   | yes [see..](https://signal.org/download/)   |
