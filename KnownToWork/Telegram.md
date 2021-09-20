@@ -1,1 +1,22 @@
+{:tags [degoogled, needs-no-google-apps, chat, encrypted]}
 
+| Website | https://telegram.org/                         |
+|---------|-----------------------------------------------|
+| Android | yes [see..](https://telegram.org/apps)   |
+| apple   | yes [see..](https://telegram.org/apps)   |
+| linux   | yes [see..](https://telegram.org/apps)   |
+| win     | yes [see..](https://telegram.org/apps)   |
+
+# Telegram
+
+Telegram is another messenger, a huge benefit is that Signal is Open-Source and there exist two different options how you can send your messages. One way is to send the Cloud-based messages, the other is to use SecretChats.
+
+# Data Flow
+
+![](TelegramDataFlow.svg)
+
+# Privacy
+
+If you use the standard Cloud-based messaging your data are stored on a Telegram server. If you use SecretChats your data are stored only on your device.
+
+# Reviews
