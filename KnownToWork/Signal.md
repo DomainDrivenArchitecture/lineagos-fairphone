@@ -3,9 +3,9 @@
 | Website | https://signal.org/                          |
 |---------|-----------------------------------------------|
 | Android | yes [see..](https://signal.org/download/)   |
-| apple   | yes [see..](https://signal.org/download/)   |
-| linux   | yes [see..](https://signal.org/download/)   |
-| win     | yes [see..](https://signal.org/download/)   |
+| Apple   | yes [see..](https://signal.org/download/)   |
+| Linux   | yes [see..](https://signal.org/download/)   |
+| Windows | yes [see..](https://signal.org/download/)   |
 
 # Signal
 
