@@ -3,9 +3,9 @@
 | Website | https://telegram.org/                         |
 |---------|-----------------------------------------------|
 | Android | yes [see..](https://telegram.org/apps)   |
-| apple   | yes [see..](https://telegram.org/apps)   |
-| linux   | yes [see..](https://telegram.org/apps)   |
-| win     | yes [see..](https://telegram.org/apps)   |
+| Apple   | yes [see..](https://telegram.org/apps)   |
+| Linux   | yes [see..](https://telegram.org/apps)   |
+| Windows | yes [see..](https://telegram.org/apps)   |
 
 # Telegram
 
