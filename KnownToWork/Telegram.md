@@ -6,6 +6,7 @@
 | Apple   | yes [see..](https://telegram.org/apps)   |
 | Linux   | yes [see..](https://telegram.org/apps)   |
 | Windows | yes [see..](https://telegram.org/apps)   |
+| F-Droid | yes [see..](https://f-droid.org/en/packages/org.telegram.messenger/) |
 
 # Telegram
 
