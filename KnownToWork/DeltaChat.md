@@ -3,9 +3,10 @@
 | Website | https://delta.chat/                           |
 |---------|-----------------------------------------------|
 | Android | yes [see..](https://delta.chat/de/download)   |
-| apple   | yes [see..](https://delta.chat/de/download)   |
-| linux   | yes [see..](https://delta.chat/de/download)   |
-| win     | yes [see..](https://delta.chat/de/download)   |
+| Apple   | yes [see..](https://delta.chat/de/download)   |
+| Linux   | yes [see..](https://delta.chat/de/download)   |
+| Windows | yes [see..](https://delta.chat/de/download)   |
+| F-Droid | yes [see..](https://f-droid.org/en/packages/com.b44t.messenger/) |
 
 # DeltaChat
 
@@ -17,7 +18,7 @@ Chat with anyone if you know their e-mail address, no need for them to install D
 
 # Data Flow
 
-![](DeltaChatDataFlow.svg)
+![](img/DeltaChatDataFlow.svg)
 
 # Privacy
 
