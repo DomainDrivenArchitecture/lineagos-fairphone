@@ -2,9 +2,9 @@
 
 | Website | https://osmand.net/                          |
 |---------|-----------------------------------------------|
-| Android | yes [see..](https://osmand.net/)   |
-| Apple   | yes [see..](https://osmand.net/)   |
-| F-Droid | yes [see..](https://f-droid.org/en/packages/net.osmand.plus/)
+| Android | yes https://play.google.com/store/apps/details?id=net.osmand.plus   |
+| Apple   | yes https://apps.apple.com/app/apple-store/id934850257   |
+| F-Droid | yes https://f-droid.org/en/packages/net.osmand.plus/ |
 
 
 # OsmAnd
