@@ -43,7 +43,7 @@ The next step is the critical one. If this step goes wrong your fairphone may re
    ```
 1. Check whether your downloaded recovery image is not broken. In case of
    1. windows type `Get-FileHash <image_filename.img>` on your computer.
-   1. linux type `sha256sum <image_filename.img>` on your computer. 
+   1. linux type `sha256sum <image_filename.img>` or alternatively `shasum -a 256 <image_filename.img>` on your computer. 
 1. The result should look like   
    ```
    b6494278d0a399547a9344a6018a30b388f71a97ef52989bcdd661002f3a8631  lineage-18.1-20210906-recovery-FP3.img
