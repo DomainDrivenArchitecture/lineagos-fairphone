@@ -7,6 +7,7 @@
 [ ] you have a usb cable prepared?  
 [ ] you are prepared to erase all the data on your fairphone?  
 
+
 ## 2. Unlock your fairphone
 
 Unlocking will allow us to overwrite the boot-loader.
@@ -17,6 +18,7 @@ Unlocking will allow us to overwrite the boot-loader.
 1. In case of Fairphone3:
    1. Navigate to "Settings - System – Advanced – Developer options"
    1. Enable OEM unlocking with unlock your code
+
 
 ## 3. Connect via usb
 
@@ -48,20 +50,26 @@ The next step is the critical one. If this step goes wrong your fairphone may re
    ```
    b6494278d0a399547a9344a6018a30b388f71a97ef52989bcdd661002f3a8631  lineage-18.1-20210906-recovery-FP3.img
    ```
-1. Now compare some random parts of the number to the one given on the recovery image download page. Ensure, you are browsing secure with "https".   
+1. Now compare the number to the one given on the recovery image download page. Ensure, you are browsing secure with "https".   
 [<img src="img/sha256.png" width="500" height="250">](img/sha256.png)
+1. Be aware, in the next step all data will be erased on your fairphone!
+
 
 ## 5. Install LinegaeOS recovery image
 
-All checks passed? Then lets do the work:
+All checks passed? Then lets continues:
 1. Type on your computer `fastboot oem unlock`.
 1. If your fairphone reboots, a `adb reboot bootloader` will bring you back.
-1. Install fastboot image 
-   1. in case of Fairphone2 by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
-   1. in case of Fairphone3 by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
-1. Type on your computer `fastboot oem lock`.
+1. Install fastboot image & reboot to recovery
+   1. in case of Fairphone2 
+      1. by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
+      1. With the device powered off, hold Volume Up + Power. Release when boot logo appears.
+   1. in case of Fairphone3 
+      1. by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
+      1. With the device powered off, hold Volume Up + Power. Release when boot logo appears.
 
-OEM unlocking / locking will erase all data, so we should ensure to do the lock again now.
+Please take care not to boot in to your old Android / FairphoneOS. If you missed the proper reboot into recovery by buttons you've to step back to step 1. because your old os reinstall its own recovery over the one you installed.
+
 
 ## 6. Install LineageOS
 
@@ -80,20 +88,34 @@ This step is no more dangerous. You can retry as often you want to. The LineageO
 
 7. Check whether you see the `Step 2/2` on the bottom of your fairphone.
 
+
 ### 6.1 Optional installation of Google Apps
 
 If you can't abstain from the Google Apps or the Google Play Store there exist packages with various scopes, you will find a package comparison here: [https://github.com/opengapps/opengapps/wiki/Package-Comparison](https://github.com/opengapps/opengapps/wiki/Package-Comparison). You have to install Google Aps in front of first the first start wizzard.
 1. Download the favored version from [here](https://opengapps.org/).
 1. Install the gapps the same way, you installed LineageOs: `adb sideload <gapps.zip>`
 
-## 7. Start LineageOS
+
+## 7. OEM Lock
+
+OEM unlocking / locking will erase all data, so we should ensure to do the lock again now.
+
+1. Type `fastboot devices` on your computer. The result should show something like
+   ```
+   <SerialNumberOfYourPhone>	fastboot
+   ```
+1. Type on your computer `fastboot oem lock`.
+
+
+## 8. Start LineageOS
 
 First start of your new LineageOS - hurray.
 1. Return to main menu
 1. Choose Reboot system, then your phone should start with the new LineageOS.
 1. Walk through the initial LineageOS setup.
 
-## 8. Download the F-Droid App-Store
+
+## 9. Download the F-Droid App-Store
 
 For installing more software we recommend F-Droid 
 1. Use the browser on your Fairphone to download F-Droid: [https://www.f-droid.org/](https://www.f-droid.org/)
