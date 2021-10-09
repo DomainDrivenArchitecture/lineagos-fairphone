@@ -59,7 +59,7 @@ The next step is the critical one. If this step goes wrong your fairphone may re
 
 All checks passed? Then lets continues:
 1. Type on your computer `fastboot oem unlock`.
-1. If your fairphone reboots, a `adb reboot bootloader` will bring you back.
+1. If your fairphone reboots, `adb reboot bootloader` will bring you back.
 1. Install fastboot image & reboot to recovery
    1. in case of Fairphone2 
       1. by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
