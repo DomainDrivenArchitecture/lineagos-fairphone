@@ -74,6 +74,7 @@ Please take care not to boot in to your old Android / FairphoneOS. If you missed
 ## 6. Install LineageOS
 
 This step is no more dangerous. You can retry as often you want to. The LineageOs boot-loader will verify your binaries.
+If you are already in the recovery mode you can go to step 6.3.
 1. Reboot your fairphone again to bootloader mode: Type `adb reboot recovery` on your computer.
 2. Your fairphone now boots to the new LineageOS recovery image. Then start the recovery mode.   
 [<img src="img/start.jpg" width="300" height="400">](img/start.jpg)[<img src="img/recovery.jpg" width="300" height="400">](img/recovery.jpg)
