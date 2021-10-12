@@ -65,7 +65,7 @@ All checks passed? Then lets continues:
       1. by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
       1. With the device powered off, hold Volume Up + Power. Release when boot logo appears.
    1. in case of Fairphone3 
-      1. by typing on your computer `fastboot flash boot_b <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
+      1. by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
       1. On the phone you should not see any difference and you phone should remain in the bootloader screen. Then hold Volume Up + Power. Release when boot logo appears.
 
 Please take care not to boot in to your old Android / FairphoneOS. If you missed the proper reboot into recovery by buttons you've to step back to step 1. because your old os reinstall its own recovery over the one you installed.
@@ -96,7 +96,7 @@ If you can't abstain from the Google Apps or the Google Play Store there exist p
 1. Download the favored version from [here](https://opengapps.org/).
 1. Install the gapps the same way, you installed LineageOs: `adb sideload <gapps.zip>`
 
-## 6. Reboot into LineageOS and prepare for OEM Lock
+### 6.2 Reboot into LineageOS and prepare for OEM Lock
 
 Reboot the system then your phone should start the installed LineageOS.
 Then do again steps 2.1 - 2.4 to re-enable USB-debugging and boot again into fastboot mode with `adb reboot bootloader`.
