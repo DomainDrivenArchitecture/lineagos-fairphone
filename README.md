@@ -46,9 +46,9 @@ Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_
 
 ## Friends and related work
 
-* Mobilsicher is a german platform about privacy on android: https://mobilsicher.de/
-* Portal providing privacy audits for apps: https://reports.exodus-privacy.eu.org/en/
-* Getting GooglePlayStore-Apps without having a play store: https://gitlab.com/AuroraOSS/AuroraStore
+* **Mobilsicher** is a german platform about privacy on android: https://mobilsicher.de/
+* **Exodus** is a portal providing privacy audits for apps: https://reports.exodus-privacy.eu.org/
+* Getting GooglePlayStore-Apps without having a google account with **Aurora**: https://gitlab.com/AuroraOSS/AuroraStore
 * Privacy Guides: https://github.com/JBNCK/fp3_debloater
 * Privacy Blog: https://www.kuketz-blog.de/
 
