@@ -1,10 +1,12 @@
 # Install LineageOS on Fairphone
 
 ## 1. Check your prerequisites on your computer
-[ ] adb and fastboot are installed?  
+[ ] adb and fastboot are installed on your computer?  
 [ ] you have downloaded bootimage (img) and LineageOS (zip)?  
 [ ] you have the unlock code (in case of Fairphone 3)?  
 [ ] you have a usb cable prepared?  
+[ ] you have removed your screen lock?
+[ ] your phone has at least 70% battery?  
 [ ] you are prepared to erase all the data on your fairphone?  
 
 
@@ -36,7 +38,7 @@ For overwriting your fairphones boot-loader we will need connection to your pc.
 
 The next step is the critical one. If this step goes wrong your fairphone may remain broken. Time to do some checks:
 
-1. Check that your phone has at least 50% battery.
+1. Check that your phone has at least 70% battery.
 1. Reboot your fairphone to bootloader mode: Type `adb reboot bootloader` on your computer.
 1. Fairphone should show the bootloader screen.  
 1. Type `fastboot devices` on your computer. The result should show something like
