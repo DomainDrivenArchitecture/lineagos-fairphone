@@ -5,9 +5,9 @@
 [ ] you have downloaded bootimage (img) and LineageOS (zip)?  
 [ ] you have the unlock code (in case of Fairphone 3)?  
 [ ] you have a usb cable prepared?  
-[ ] you have removed your screen lock?
-[ ] your phone has at least 70% battery?  
-[ ] you are prepared to erase all the data on your fairphone?  
+[ ] you have removed your screen lock?   
+[ ] your phone has at least 70% battery?   
+[ ] you are prepared to erase all the data on your fairphone?   
 
 
 ## 2. Unlock your fairphone
