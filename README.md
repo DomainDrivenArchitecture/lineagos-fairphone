@@ -51,7 +51,7 @@ Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_
 * **topio** is a club supporting privacy on smartphones for everyone: https://www.topio.info/
 * Getting GooglePlayStore-Apps without having a google account with **Aurora**: https://gitlab.com/AuroraOSS/AuroraStore
 * Privacy Guides: https://github.com/JBNCK/fp3_debloater
-* Privacy Blog: https://www.kuketz-blog.de/
+* Privacy Blog: https://www.kuketz-blog.de/android-ohne-google-take-back-control-teil1/
 
 ## License
 
