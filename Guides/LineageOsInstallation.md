@@ -67,10 +67,11 @@ All checks passed? Then lets continues:
       1. by typing on your computer `fastboot flash recovery <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
    1. in case of Fairphone3 
       1. by typing on your computer `fastboot flash boot <image_filename.img>` (<image_filename.img> is the img-file you have downloaded in 1.).
+      - If you see something like "boot partition is smaller than boot image" you might find the solution [here](https://gitlab.com/domaindrivenarchitecture/lineageos-fairphone/-/blob/main/Guides/InstallationFAQ.md).
       1. On the phone you should not see any difference and you phone should remain in the bootloader screen. Then hold Volume Up + Power. Release when boot logo appears.
 1. Reboot to Recovery without starting your original rom
    1. in case of Fairphone2 
-      1. With the device powered off, hold Volume Up + Power. Release when boot logo appears.
+      1. With the device powered off, hold Power + Volume Up. Release when boot logo appears.
    1. in case of Fairphone3 
       1. Use your bootloader to restart   
       [<img src="img/start.jpg" width="300" height="400">](img/start.jpg)[<img src="img/recovery.jpg" width="300" height="400">](img/recovery.jpg)
