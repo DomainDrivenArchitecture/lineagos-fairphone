@@ -26,7 +26,14 @@ LineageOS looks online for the entered number, but that is not their business.
 
 1. Switch of the forward lookup, the people lookup and the reverse lookup (Telephone-App - three points in the search field - Settings - phone number lookup).
 
-## 5. Google captive Portal
+## 5. Browser search suggestions
+
+Not every input on your keyboard has to be sent to the search engine, especially not to Google.
+
+1. Choose another search engine e.g. startpage or duckduckgo (Browser - Settings - Search)
+1. Switch off the search suggestions (Browser - Settings - Search - Show search suggestions)
+
+## 6. Google captive Portal
 
 The question whether you are connected to the internet should not be googles decission:
 
