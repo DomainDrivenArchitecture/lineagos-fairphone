@@ -14,13 +14,19 @@ Nobody should track your location:
 
 1. Check Privacy Settings and GPS (especially browser-settings from Fennec).
 
-## 3. google print service
+## 3. Google print service
 
 Did you ever use the google print-service? If not, let's switch it off:
 
 1. Switch off Print Service (Settings - Connected devices - Connection preferences - Printing).
 
-## 4. Google captive Portal
+## 4. Phone number lookup
+
+LineageOS looks online for the entered number, but that is not their business.
+
+1. Switch of the forward lookup, the people lookup and the reverse lookup (Telephone-App - three points in the search field - Settings - phone number lookup).
+
+## 5. Google captive Portal
 
 The question whether you are connected to the internet should not be googles decission:
 
