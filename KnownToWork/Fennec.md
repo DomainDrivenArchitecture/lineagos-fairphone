@@ -5,21 +5,17 @@
 | F-Droid   | yes [see..](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)   |
 
 
-# Signal
+# Fennec
 
-Signal is another messenger, a huge benefit is that Signal is Open-Source and the end-to-end decryption keeps you data secure. 
-
-Signal is recommended by many privacy advocates like Edward Snowden and is moreover an independent nonprofit.
-
-# Data Flow
-
-![](img/SignalDataFlow.svg)
+Fennec is a browser based on the latest Firefox release (codenamed Fenix). It provides improved tracking protection against various trackers and moreover has proprietary bits and telemetry removed. Still it connects to various Mozilla and Google services that can track users.
 
 # Privacy
 
-All your messages are stored locally on your device, so the messages you send only exist on Signal’s servers during transit where they are end-to-end encrypted.  
-As long as your phone is safe, your Signal messages are safe as well.
-
-Because your data are only stored locally you have to perform a backup of your messages if you want to keep them after changing your phone or before installing LineageOS. Therefore you have to create a backup-file.
+As Fennec is definetly not perfect on its own, you should increase your privacy yourself with some adaptions.
+- check the settings of the browser, especially the location settings.
+- you might choose another search engine.
+- switch off the search suggestions.
+- you might install FWall+ (more informations [here](https://www.kuketz-blog.de/afwall-digitaler-tuervorsteher-take-back-control-teil4/))
+- [here](https://www.kuketz-blog.de/mozilla-firefox-datensendeverhalten-desktop-version-browser-check-teil20/) you can find more informations about the data that firefox sends.
 
 # Reviews
