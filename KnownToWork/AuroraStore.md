@@ -15,7 +15,7 @@ If you need apps which require GSF you can install MicroG. MicroG is a free soft
 
 # Privacy
 
-The [source code](https://gitlab.com/AuroraOSS/AuroraStore) of tje AuroraStore can be found on GitLab.
+The [source code](https://gitlab.com/AuroraOSS/AuroraStore) of the AuroraStore can be found on GitLab.
 
 
 # Reviews
