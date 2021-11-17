@@ -1,4 +1,4 @@
-{:tags [degoogled, needs-no-google-apps, navigator, encrypted]}
+{:tags [degoogled, needs-no-google-apps, app-store, encrypted]}
 
 | Website | https://auroraoss.com/                          |
 |---------|-----------------------------------------------|
