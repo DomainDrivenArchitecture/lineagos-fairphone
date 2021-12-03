@@ -1,4 +1,7 @@
 # Known to work
+## System
+1. [eSpeak](ESpeak.md), offline TTS support for more than 100 languages
+
 ## App Stores
 
 1. [F-Droid](F-Droid.md), the OpenSource app store
