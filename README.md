@@ -27,12 +27,14 @@ You will find more guides at [Guides/Summary.md](Guides/Summary.md)
 
 We will collect the most important use cases here
 
-* [DeltaChat](KnownToWork/DeltaChat.md)
+* [Known to Work](KnownToWork/Summary.md)
 
 
 ## Things not working
 
 But obviosly there are also things not working without google (google-pay  or google-search for example). We will collect these things here and describe alterantives if possible.
+
+* [Known Issues](KnownIssues/Summary.md)
 
 
 ## Support and Service
@@ -40,6 +42,7 @@ But obviosly there are also things not working without google (google-pay  or go
 For those who are unsure about the steps described, we offer support in the German-speaking area of the EU:
 * **Installation Seminars**: Work through the instructions with others and us via video conference and install your own FairPhone with LineageOS.
 * **Installation Serevice**: Send in your FairPhone and we will install LineageOS for you.
+* **Lean Lineagos Coffee**: Getting help on the small things, ask a question, get a tip, solve a problem ...
 
 Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_fairphone/
 
