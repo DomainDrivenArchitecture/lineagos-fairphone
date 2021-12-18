@@ -122,7 +122,9 @@ OEM unlocking / locking will erase all data, so we should ensure to do the lock 
 ## 8. Start LineageOS
 
 First start of your new LineageOS - hurray.
-1. Walk through the initial LineageOS setup.
+1. Walk through the initial LineageOS setup. If you want to avoid tracking from start, you should 
+   1. execute Step1 - 4 of [DegoogleLineageOs.md](DegoogleLineageOs.md)
+   2. activate your wlan
 
 
 ## 9. Download the F-Droid App-Store
@@ -130,5 +132,17 @@ First start of your new LineageOS - hurray.
 For installing more software we recommend F-Droid 
 1. Use the browser on your Fairphone to download F-Droid: [https://www.f-droid.org/](https://www.f-droid.org/)
 1. Visit the download-folder and install F-Droid (accept the warning).
+1. Do no longer trust your browser for installing apps: Settings -> Apps -> Browser -> extended -> switch "Install from unknown Source" off.
 1. Now you can install Apps like DeltaChat, NextCloud, Fennec, Tusky, k9 (...) through the F-Droid Store.
-1. Open Fennec and install privacy badger as add-on.
+
+
+## 10. Enable Data-Encryption
+
+Your private date should stay safe in case of loosing your phone
+1. Settings -> Privacy -> Trust -> activate encryption (you've to choose at least a screen-lock-pin for this process).
+
+## 11. Final steps
+
+Now your phone is ready for usage
+1. Disable Development Options: Settings -> System -> Development Options -> switch em off.
+1. insert your sim-card
