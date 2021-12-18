@@ -55,3 +55,9 @@ Not every input on your keyboard has to be sent to the search engine, especially
 
 1. Choose another search engine e.g. startpage or duckduckgo (Browser - Settings - Search)
 1. Switch off the search suggestions (Browser - Settings - Search - Show search suggestions)
+
+
+## 9. Deny net access for untrusted apps
+
+If you have to use less trustworthy apps, a firewall is very usefull. We use NetGuard ...
+1. FDroid -> search for NetGuard -> install.
