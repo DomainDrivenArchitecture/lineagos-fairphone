@@ -41,6 +41,7 @@ Do not trust Googles Browser
 1. Open Fdroid to install a Browser. We use Fennec ...
 2. Open Fennec and install "privacy badger" & mBlockOrigin as add-on.
 3. Drag your Fennec-App-Symbol to the Browserlocation (at the bottom of your screen) & remove chromium
+4. Determine Fennec as you standard browser.
 
 ## 7. Location Tracking
 
