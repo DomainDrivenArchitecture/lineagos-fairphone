@@ -6,4 +6,4 @@
 
 ## Services issues
 
-1. [Google-Apps](GoogleApps.md), without Googles servicer connect google services will not work.
+1. [Google-Apps](GoogleApps.md), without googles services connecting to google services will not work.

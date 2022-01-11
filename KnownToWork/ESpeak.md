@@ -9,7 +9,7 @@
 
 # eSpeak
 
-eSpeak can be used as google free TTS (Text To Speach) system on your Smartphone. Offline is supported, no traking found.
+eSpeak can be used as google free TTS (Text To Speach) system on your smartphone. Offline is supported, no traking found.
 
 ## Privacy
 
