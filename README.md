@@ -55,6 +55,9 @@ Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_
 * Getting GooglePlayStore-Apps without having a google account with **Aurora**: https://gitlab.com/AuroraOSS/AuroraStore
 * Privacy Guides: https://github.com/JBNCK/fp3_debloater
 * Privacy Blog: https://www.kuketz-blog.de/android-ohne-google-take-back-control-teil1/
+* Fairphone3 on LineageOS: https://wiki.lineageos.org/devices/FP3/
+* LineageOS Source on Github: https://github.com/LineageOS
+* Fairphone / LineageOS / Developer Community: https://github.com/WeAreFairphone
 
 ## License
 
