@@ -47,7 +47,7 @@ For those who are unsure about the steps described, we offer support in the Germ
 * **Installation Serevice**: Send in your FairPhone and we will install LineageOS for you.
 * **Lean Lineagos Coffee**: Get help on the small issues, ask a question, get a tip, solve a problem ...
 
-Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_Fairphone/
+Find more infromaton about our offer at https://meissa-gmbh.de/pages/lineageos_Fairphone/
 
 
 ## Friends and related work
