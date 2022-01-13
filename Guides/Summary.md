@@ -1,5 +1,5 @@
 1. [Prepare installation](1. PrepareInstallation.md)
-2. [LineageOs installation](2. LineageOsInstallation.md)
-3. [degoogle your phone](3. DegoogleLineageOs.md)
-4. [Upgrade LineageOS17 -> 18](4. LineagosUpgrade.md)
+2. [LineageOS installation](2. LineageOSInstallation.md)
+3. [Degoogle your phone](3. DegoogleLineageOS.md)
+4. [Upgrade LineageOS17 -> 18](4. LineageOSUpgrade.md)
 5. [OpenGapps](OpenGapps.md)

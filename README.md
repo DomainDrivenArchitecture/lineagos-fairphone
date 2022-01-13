@@ -20,7 +20,7 @@ Thus we will do our best to stop google from gathering data from your and our li
 We have enhanced the LineageOS installation guide for the Fairphone in order to provide a complete walkthrough including bootloader-unlocking, degoogling & app-installation.
 
 1. [Prepare installation](Guides/1.\ PrepareInstallation.md)
-2. [LineageOS installation](Guides/2.\ LineageOsInstallation.md)
+2. [LineageOS installation](Guides/2.\ LineageOSInstallation.md)
 3. [Degoogle your phone](Guides/3.\ DegoogleLineageOS.md)
 
 You will find more guides at [Guides/Summary.md](Guides/Summary.md)
