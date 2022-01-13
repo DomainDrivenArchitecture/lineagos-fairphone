@@ -21,7 +21,7 @@ We have enhanced the LineageOS installation guide for the Fairphone in order to 
 
 1. [Prepare installation](Guides/1.\ PrepareInstallation.md)
 2. [LineageOs installation](Guides/2.\ LineageOsInstallation.md)
-3. [degoogle your phone](Guides/3.\ DegoogleLineageOs.md)
+3. [Degoogle your phone](Guides/3.\ DegoogleLineageOS.md)
 
 You will find more guides at [Guides/Summary.md](Guides/Summary.md)
 
@@ -34,8 +34,8 @@ We will collect the most important use cases here
 
 ## Things not working
 
-Obviosly there are some apps and services that do not work without google (google-pay or google-search for example). 
-We will collect these things here and describe alterantives if possible.
+Obviously there are some apps and services that do not work without google (google-pay or google-search for example). 
+We will collect these issues here and describe alterantives if possible.
 
 * [Known Issues](KnownIssues/Summary.md)
 
@@ -43,7 +43,7 @@ We will collect these things here and describe alterantives if possible.
 ## Support and Service
 
 For those who are unsure about the steps described, we offer support in the German-speaking area of the EU:
-* **Installation Seminars**: Work through the instructions with others and us via video conference and install your own FairPhone with LineageOS.
+* **Installation Seminars**: Work through the instructions with us via video conference and install your LineageOS by yourself on your own FairPhone.
 * **Installation Serevice**: Send in your FairPhone and we will install LineageOS for you.
 * **Lean Lineagos Coffee**: Get help on the small issues, ask a question, get a tip, solve a problem ...
 
