@@ -18,8 +18,8 @@
 **6. After I ungoogled my smartphone, I can't find all important apps in the F-Droid Store, are there any workarounds?**
 - The F-Droid Store only contains Free and open-source software (FOSS), as not all apps are FOSS we have collected some workarounds [here][knowntowork]
 
-**7. I really like the synchronization of my calendar between my devices with Google, do you have any workarounds?**
-- Yes, we have created a small [How-to][calendar] sync your calendar without using Google. 
+**7. I really like the synchronization of my calendar between my devices with google, do you have any workarounds?**
+- Yes, we have created a small [How-to][calendar] sync your calendar without using google. 
 
 
 
