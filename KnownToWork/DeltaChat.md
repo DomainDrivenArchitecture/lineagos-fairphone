@@ -10,7 +10,7 @@
 
 # DeltaChat
 
-Delta Chat is like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number. Check out our privacy statement.
+Delta Chat is a messenger like Telegram or Whatsapp but without the tracking or central control. Delta Chat does not need your phone number. Check out our privacy statement.
 
 Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network.
 

@@ -10,7 +10,8 @@
 
 # Telegram
 
-Telegram is another messenger, a huge benefit is that Telegram is Open-Source and there exist two different options how you can send your messages. One way is to send the Cloud-based messages, the other is to use SecretChats.
+Telegram is another messenger, a huge benefit is that Telegram is Open-Source.
+There are two different options how you can send your messages. One way is to send Cloud-based messages, the other is to use SecretChats.
 
 # Data Flow
 

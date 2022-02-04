@@ -9,9 +9,9 @@
 
 # Signal
 
-Signal is another messenger, a huge benefit is that Signal is Open-Source and the end-to-end decryption keeps you data secure. 
+Signal is another messenger, a huge benefit is that Signal is Open-Source and the end-to-end decryption keeps your data secure. 
 
-Signal is recommended by many privacy advocates like Edward Snowden and is moreover an independent nonprofit.
+Signal is recommended by many privacy advocates like Edward Snowden and is moreover developed by an independent nonprofit organisation.
 
 # Data Flow
 

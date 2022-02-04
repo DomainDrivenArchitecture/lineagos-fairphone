@@ -9,13 +9,13 @@
 
 # OsmAnd
 
-OsmAnd is a navigation app, it is based on the OpenStreetMap (OSM) map database. The Data can be stored locally for offline use.
+OsmAnd is a navigation app, it is based on the OpenStreetMap (OSM) map database. The data can be stored locally for offline use.
 
 In the F-Droid store you get OsmAnd~, which is a version without GooglePlay services. As a there are no Google dependencies the	voice output does not work because TextToSpeech (TTS) is not installed.  
-Through the [AuroraStore]() you can install the Speech Services (unfortunately) by Google. Then you can activate TTS in OsmAnd~ and use your navigation app.
+Through the [AuroraStore]() you can install the speech services (unfortunately) by Google. Then you can activate TTS in OsmAnd~ and use your navigation app.
 
 ## Navigation with Speech-Output
-Using eSpeak (available on fdroid) now the navigation with spoken instructions is possible.
+Using eSpeak (available on F-droid) now the navigation with spoken instructions is possible.
 
 
 ## Privacy

@@ -7,7 +7,7 @@
 
 # F-Droid Store
 
-F-Droid is an installable app-store for FOSS (Free and Open Source Software) applications for the Android platform.
+F-Droid is an app-store for FOSS (Free and Open Source Software) applications for the Android platform.
 
 # Privacy
 
