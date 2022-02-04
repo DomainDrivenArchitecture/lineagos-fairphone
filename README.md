@@ -1,29 +1,31 @@
-# LineageOS-fairphone
+# LineageOS-Fairphone
 
 [<img src="https://domaindrivenarchitecture.org/img/delta-chat.svg" width=20 alt="DeltaChat"> chat over e-mail](mailto:buero@meissa-gmbh.de?subject=community-chat) | [<img src="https://meissa-gmbh.de/img/community/Mastodon_Logotype.svg" width=20 alt="team@social.meissa-gmbh.de"> team@social.meissa-gmbh.de](https://social.meissa-gmbh.de/@team) | [Website & Blog](https://domaindrivenarchitecture.org)
 
-## Rational
+## Our Motivation
 ### Security matters
 
-The biggest issue in terms of security is the lack of updates. Your android smartphone will be updated by your provider (if there are updates at all) for one or two years. LineageOS provides much longer updates. The oldest device we support (a htcOne) is now getting updates for more than 8 years.
-
+The biggest security issue on your android smartphone is the lack of updates after some time. 
+Usually updates will be rolled out for one or two years and then the manufacturer stops the support. 
+LineageOS provides updates over a much longer period of time. The oldest supported device, HTC One (M8), is now reveiving updates for more than 8 years.
 
 ### Privacy matters
 
-As it is widely known that Google tries to collect data from all possible sources. These collected data gives a incredible power to the collector. We think, giving google all this power is harmful. We will do our best to stopp google from collecting data from our lives.
-
+It is widely known that google collects data about people from all possible sources. 
+We think this knowledge concentrated in the hands of one company is quite harmful. 
+Thus we will do our best to stop google from gathering data from your and our lives.
 
 ## Installation
 
-We've enhanced the LineageOS installation guide in order to provide a complete walkthrough for the fairphone including bootloader-unlocking, degoogling & App-Installation.
+We have enhanced the LineageOS installation guide for the Fairphone in order to provide a complete walkthrough including bootloader-unlocking, degoogling & app-installation.
 
-1. [Prepare installation](Guides/PrepareInstallation.md)
-2. [LineageOs installation](Guides/LineageOsInstallation.md)
-3. [degoogle your phone](Guides/DegoogleLineageOs.md)
+1. [Prepare installation](Guides/1.\ PrepareInstallation.md)
+2. [LineageOs installation](Guides/2.\ LineageOsInstallation.md)
+3. [degoogle your phone](Guides/3.\ DegoogleLineageOs.md)
 
 You will find more guides at [Guides/Summary.md](Guides/Summary.md)
 
-## Life without Google is possible
+## Life without google is possible
 
 We will collect the most important use cases here
 
@@ -32,7 +34,8 @@ We will collect the most important use cases here
 
 ## Things not working
 
-But obviosly there are also things not working without google (google-pay  or google-search for example). We will collect these things here and describe alterantives if possible.
+Obviosly there are some apps and services that do not work without google (google-pay or google-search for example). 
+We will collect these things here and describe alterantives if possible.
 
 * [Known Issues](KnownIssues/Summary.md)
 
@@ -42,9 +45,9 @@ But obviosly there are also things not working without google (google-pay  or go
 For those who are unsure about the steps described, we offer support in the German-speaking area of the EU:
 * **Installation Seminars**: Work through the instructions with others and us via video conference and install your own FairPhone with LineageOS.
 * **Installation Serevice**: Send in your FairPhone and we will install LineageOS for you.
-* **Lean Lineagos Coffee**: Getting help on the small things, ask a question, get a tip, solve a problem ...
+* **Lean Lineagos Coffee**: Get help on the small issues, ask a question, get a tip, solve a problem ...
 
-Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_fairphone/
+Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_Fairphone/
 
 
 ## Friends and related work
@@ -52,14 +55,14 @@ Find more infromaton about our offere at https://meissa-gmbh.de/pages/lineageos_
 * **Mobilsicher** is a german platform about privacy on android: https://mobilsicher.de/
 * **Exodus** is a portal providing privacy audits for apps: https://reports.exodus-privacy.eu.org/
 * **topio** is a club supporting privacy on smartphones for everyone: https://www.topio.info/
-* Getting GooglePlayStore-Apps without having a google account with **Aurora**: https://gitlab.com/AuroraOSS/AuroraStore
+* Getting googlePlayStore-Apps without having a google account with **Aurora**: https://gitlab.com/AuroraOSS/AuroraStore
 * Privacy Guides: https://github.com/JBNCK/fp3_debloater
 * Privacy Blog: https://www.kuketz-blog.de/android-ohne-google-take-back-control-teil1/
-* Fairphone3 on LineageOS: https://wiki.lineageos.org/devices/FP3/
+* LineageOS on Fairphone 3: https://wiki.lineageos.org/devices/FP3/
 * LineageOS Source on Github: https://github.com/LineageOS
 * Fairphone / LineageOS / Developer Community: https://github.com/WeAreFairphone
 
 ## License
 
-Copyright © 2021 meissa GmbH
+Copyright © 2022 meissa GmbH
 Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE) (the "License")

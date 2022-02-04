@@ -13,14 +13,14 @@
 
 ## Messaging
 
-1. [Signal](Signal.md), messaging over signals server, encrypted
-2. [DeltaChat](DeltaChat.md), messaging over email, auto-encrypted
-3. [Telegram](Telegram.md), messaging over somehows server, not encrypted, reads your contacts, not recomended
+1. [Signal](Signal.md), messaging via signal servers, encrypted
+2. [DeltaChat](DeltaChat.md), messaging via email, auto-encrypted
+3. [Telegram](Telegram.md), messaging over telegram-company servers, not encrypted, reads your contacts, not recommended
 
 ## Calendar, Contacts & Files
 
-1. Finde some ideas described here: [Sync your data](sync_calendar.md)
+1. Find some ideas described here: [Sync your data](sync_calendar.md)
 
 ## Navigation
 
-1. [OsmAnd](OsmAnd.md), uses Open-Streetmap maps for offline navigation (pdestrian, cycle, car, truck ...), speech output possible.
+1. [OsmAnd](OsmAnd.md), uses Open-Streetmap for offline navigation (pedestrian, cycle, car, truck ...), speech output possible.
