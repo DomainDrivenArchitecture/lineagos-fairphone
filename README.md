@@ -62,6 +62,16 @@ Find more infromaton about our offer at https://meissa-gmbh.de/pages/lineageos_F
 * LineageOS Source on Github: https://github.com/LineageOS
 * Fairphone / LineageOS / Developer Community: https://github.com/WeAreFairphone
 
+## Development & mirrors
+
+Development happens at: https://repo.prod.meissa.de/meissa/lineageos-fairphone
+
+Mirrors are:
+
+* https://gitlab.com/domaindrivenarchitecture/lineageos-fairphone (issues and PR, CI)
+
+For more details about our repository model see: https://repo.prod.meissa.de/meissa/federate-your-repos
+
 ## License
 
 Copyright © 2022 meissa GmbH
