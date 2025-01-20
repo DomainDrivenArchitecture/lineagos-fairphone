@@ -42,9 +42,7 @@ We will collect these issues here and describe alternatives if possible.
 
 ## Support and Service
 
-For those who are unsure about the steps described, we offer support in the German-speaking area of the EU:
-* **Installation Seminars**: Work through the instructions with us via video conference and install your LineageOS by yourself on your own FairPhone.
-* **Installation Serevice**: Send in your FairPhone and we will install LineageOS for you.
+* **Installation Service**: Send in your FairPhone and we will install LineageOS for you.
 * **Lean Lineagos Coffee**: Get help on the small issues, ask a question, get a tip, solve a problem ...
 
 Find more infromaton about our offer at https://meissa-gmbh.de/pages/lineageos_Fairphone/
@@ -68,6 +66,7 @@ Development happens at: https://repo.prod.meissa.de/meissa/lineageos-fairphone
 
 Mirrors are:
 
+* https://codeberg.org/meissa/lineageos-fairphone.git
 * https://gitlab.com/domaindrivenarchitecture/lineageos-fairphone (issues and PR, CI)
 
 For more details about our repository model see: https://repo.prod.meissa.de/meissa/federate-your-repos
